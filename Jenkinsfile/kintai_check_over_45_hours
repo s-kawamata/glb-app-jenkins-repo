@@ -15,7 +15,7 @@ pipeline {
         slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "Success."
     }
     failure {
-        slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "Failure."
+        slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "${custom_msg()}"
         }
   }
 
@@ -23,4 +23,13 @@ pipeline {
 //     //ログを残す数が5
 //     buildDiscarder(logRotator(numToKeepStr: '5'))
 //   }
+}
+
+def custom_msg()
+{
+  def JENKINS_URL= "localhost:8080"
+  def JOB_NAME = env.JOB_NAME
+  def BUILD_ID= env.BUILD_ID
+  def JENKINS_LOG= " FAILED: Job [${env.JOB_NAME}] Logs path: ${JENKINS_URL}/job/${JOB_NAME}/${BUILD_ID}/consoleText"
+  return JENKINS_LOG
 }
