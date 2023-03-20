@@ -12,10 +12,10 @@ pipeline {
 
   post {
     success {
-        slackSend  channel: "#glb-app-mgr-notification", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "Success."
+        slackSend(channel: "#glb-app-mgr-notification", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "Success.")
     }
     failure {
-        slackSend  channel: "#glb-app-mgr-notification", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "Failure."
+        slackSend(channel: "#glb-app-mgr-notification", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "Failure.")
         }
   }
 
