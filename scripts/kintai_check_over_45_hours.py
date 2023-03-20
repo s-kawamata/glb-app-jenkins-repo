@@ -14,7 +14,7 @@ from selenium.webdriver.support import expected_conditions
 
 # ドライバー指定でChromeブラウザを開く
 #CHROMEDRIVER = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome()
 
 # driver = webdriver.Remote(
 #      command_executor="http://selenium:4444/wd/hub",
