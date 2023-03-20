@@ -12,7 +12,7 @@ pipeline {
 
   post {
     success {
-        slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "Success."
+        slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "${custom_msg()}"
     }
     failure {
         slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "${custom_msg()}"
