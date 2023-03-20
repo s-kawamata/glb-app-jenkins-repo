@@ -14,18 +14,20 @@ pipeline {
                 def result = sh(script:'python3 scripts/kintai_check_over_45_hours.py', returnStdout: true)
               }
       }
-
-      post {
+    }
+  } 
+  
+  post {
         success {
             slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "Success: ${result}"
         }
         failure {
             slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "Failed: ${result}"
         }
-      }
-    }
-  } 
+  }
 }
+
+
 
 
 def custom_msg()
