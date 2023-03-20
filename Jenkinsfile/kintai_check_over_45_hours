@@ -1,8 +1,8 @@
-// def shResult() {
-//     script {
-//         sh script:'python3 scripts/kintai_check_over_45_hours.py', returnStdout: true
-//     }
-// }
+def shResult() {
+    script {
+        sh script:'python3 scripts/kintai_check_over_45_hours.py', returnStdout: true
+    }
+}
 
 pipeline {
   agent any
@@ -11,7 +11,7 @@ pipeline {
     stage('テスト実行') {
       steps {
               script {
-                def result = sh(script:'python3 scripts/kintai_check_over_45_hours.py', returnStdout: true)
+                def result = shResult()
               }
       }
     }
