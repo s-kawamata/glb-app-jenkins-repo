@@ -9,10 +9,10 @@ pipeline {
 
   stages {
     stage('テスト実行') {
-    //   steps {
-    //           //sh 'python3 scripts/kintai_check_over_45_hours.py' 
-    //           shResult()
-    //   }
+      steps {
+              //sh 'python3 scripts/kintai_check_over_45_hours.py' 
+              sh "ls"
+      }
 
       post {
         success {
