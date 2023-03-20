@@ -13,7 +13,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 
 # ドライバー指定でChromeブラウザを開く
-CHROMEDRIVER = "/usr/bin/google-chrome"
+#CHROMEDRIVER = "/usr/bin/google-chrome"
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
 # driver = webdriver.Remote(
