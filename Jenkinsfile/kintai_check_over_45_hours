@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage('テスト実行') {
       steps {
-              sh 'ls -l' 
+              sh 'python3 scripts/kintai_check_over_45_hours.py' 
         }
     }
   }
