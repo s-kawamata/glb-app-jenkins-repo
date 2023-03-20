@@ -14,7 +14,10 @@ from selenium.webdriver.support import expected_conditions
 
 # ドライバー指定でChromeブラウザを開く
 #CHROMEDRIVER = "/usr/bin/google-chrome"
-driver = webdriver.Chrome(ChromeDriverManager().install())
+options = webdriver.ChromeOptions()
+options.add_argument('--headless')
+options.add_argument("--no-sandbox")
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
 # driver = webdriver.Remote(
 #      command_executor="http://selenium:4444/wd/hub",
