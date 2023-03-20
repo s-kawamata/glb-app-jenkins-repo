@@ -1,6 +1,6 @@
 def shResult() {
     script {
-        sh sh script:'ls -l', returnStdout: true
+        sh script:'ls -l', returnStdout: true
     }
 }
 
