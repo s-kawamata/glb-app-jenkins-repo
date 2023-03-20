@@ -1,8 +1,8 @@
-def shResult() {
-    script {
-        sh script:'python3 scripts/kintai_check_over_45_hours.py', returnStdout: true
-    }
-}
+// def shResult() {
+//     script {
+//         sh script:'python3 scripts/kintai_check_over_45_hours.py', returnStdout: true
+//     }
+// }
 
 pipeline {
   agent any
@@ -10,16 +10,17 @@ pipeline {
   stages {
     stage('テスト実行') {
       steps {
-              //sh 'python3 scripts/kintai_check_over_45_hours.py' 
-              sh "ls"
+              script {
+                def result = sh(script:'python3 scripts/kintai_check_over_45_hours.py', returnStdout: true)
+              }
       }
 
       post {
         success {
-            slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "Success: ${shResult()}"
+            slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "Success: ${result}"
         }
         failure {
-            slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "Failed: ${shResult()}"
+            slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "Failed: ${result}"
         }
       }
     }
