@@ -4,29 +4,23 @@ pipeline {
   stages {
     stage('テスト実行') {
       steps {
-              sh 'python3 scripts/kintai_check_over_45_hours.py' 
+              //sh 'python3 scripts/kintai_check_over_45_hours.py' 
+              sh 'ls -l'
         }
     }
   }
 
-  // post {
-  //   always {
-  //     // ワークスペース内のファイルをアーカイブ Symlink:シンボリックリンクのこと
-  //     step($class: 'ArtifactArchiver', artifacts: '**', followSymlinks: false)
-  //   }
-
-  //   success {
-  //       slackSend  color: 'good',
-  //                          message: "Ticket_Lab3a success."
-  //   }
-  //   failure {
-  //       slackSend  color: 'danger',
-  //                          message: "Ticket_Lab3a failure."
-  //       }
-  // }
-
-  options {
-    //ログを残す数が5
-    buildDiscarder(logRotator(numToKeepStr: '5'))
+  post {
+    success {
+        slackSend  channel: "#glb-app-mgr-notification", token: "slack_webhook_token_mgr", color: 'good', message: "Success."
+    }
+    failure {
+        slackSend  channel: "#glb-app-mgr-notification", token: "slack_webhook_token_mgr", color: 'danger', message: "Failure."
+        }
   }
+
+//   options {
+//     //ログを残す数が5
+//     buildDiscarder(logRotator(numToKeepStr: '5'))
+//   }
 }
