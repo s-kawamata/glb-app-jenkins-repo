@@ -13,13 +13,13 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 
 # ドライバー指定でChromeブラウザを開く
-# CHROMEDRIVER = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-# driver = webdriver.Chrome(ChromeDriverManager().install())
+CHROMEDRIVER = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+driver = webdriver.Chrome(ChromeDriverManager().install())
 
-driver = webdriver.Remote(
-     command_executor="http://selenium:4444/wd/hub",
-     desired_capabilities=DesiredCapabilities.CHROME.copy(),
- )
+# driver = webdriver.Remote(
+#      command_executor="http://selenium:4444/wd/hub",
+#      desired_capabilities=DesiredCapabilities.CHROME.copy(),
+#  )
 
 # Googleアクセス
 driver.get('https://login.salesforce.com/?locale=jp')
