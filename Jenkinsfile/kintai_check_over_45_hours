@@ -11,7 +11,7 @@ pipeline {
     stage('テスト実行') {
       steps {
               script {
-                ${result} = shResult()
+                result = shResult()
               }
       }
     }
