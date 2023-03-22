@@ -1,0 +1,15 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.19t:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+
+[INVALID]
+/Library/Internet Plug-Ins/AdobePDFViewer.plugin:$
+1575320194000:$
+/Library/Internet Plug-Ins/AdobePDFViewerNPAPI.plugin:$
+1575320205000:$
+/Users/s_kawamata/Library/Internet Plug-Ins/ZoomUsPlugIn.plugin:$
+1579430801000:$

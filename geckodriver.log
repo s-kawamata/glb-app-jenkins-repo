@@ -1,0 +1,1566 @@
+1679477392068	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileEap2tS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679477392682	Marionette	INFO	Marionette enabled
+1679477392800	Marionette	INFO	Listening on port 51049
+2023-03-22 18:29:52.870 plugin-container[49110:2210751] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:29:52.871 plugin-container[49110:2210751] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:29:52.878 plugin-container[49110:2210751] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:29:52.878 plugin-container[49110:2210751] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:29:52.878 plugin-container[49110:2210756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:29:52.878 plugin-container[49110:2210756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679477394400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:29:56.042 plugin-container[49119:2211029] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:29:56.043 plugin-container[49119:2211029] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:29:56.048 plugin-container[49119:2211029] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:29:56.048 plugin-container[49119:2211029] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:29:56.048 plugin-container[49119:2211038] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:29:56.048 plugin-container[49119:2211038] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3542 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:29:58.331 plugin-container[49126:2211251] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:29:58.332 plugin-container[49126:2211251] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:29:58.338 plugin-container[49126:2211251] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:29:58.338 plugin-container[49126:2211251] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:29:58.338 plugin-container[49126:2211255] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:29:58.338 plugin-container[49126:2211255] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1679477414610	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileYu4mPG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679477414994	Marionette	INFO	Marionette enabled
+1679477415102	Marionette	INFO	Listening on port 51099
+2023-03-22 18:30:15.165 plugin-container[49163:2211853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:30:15.165 plugin-container[49163:2211853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:30:15.171 plugin-container[49163:2211853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:30:15.171 plugin-container[49163:2211853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:30:15.171 plugin-container[49163:2211856] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:30:15.171 plugin-container[49163:2211856] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679477415705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:30:17.739 plugin-container[49169:2212131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:30:17.739 plugin-container[49169:2212131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:30:17.745 plugin-container[49169:2212131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:30:17.745 plugin-container[49169:2212131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:30:17.745 plugin-container[49169:2212137] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:30:17.745 plugin-container[49169:2212137] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6525 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:30:19.865 plugin-container[49176:2212326] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:30:19.866 plugin-container[49176:2212326] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:30:19.875 plugin-container[49176:2212326] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:30:19.875 plugin-container[49176:2212326] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:30:19.875 plugin-container[49176:2212331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:30:19.875 plugin-container[49176:2212331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileYu4mPG/thumbnails) because it does not exist
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+1679477585530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilenoKDO5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679477585929	Marionette	INFO	Marionette enabled
+1679477586049	Marionette	INFO	Listening on port 51142
+2023-03-22 18:33:06.108 plugin-container[49384:2214818] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:33:06.109 plugin-container[49384:2214818] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:33:06.115 plugin-container[49384:2214818] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:33:06.115 plugin-container[49384:2214818] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:33:06.115 plugin-container[49384:2214824] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:33:06.115 plugin-container[49384:2214824] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679477587063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:33:08.856 plugin-container[49389:2215107] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:33:08.857 plugin-container[49389:2215107] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:33:08.862 plugin-container[49389:2215107] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:33:08.862 plugin-container[49389:2215107] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:33:08.863 plugin-container[49389:2215119] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:33:08.863 plugin-container[49389:2215119] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5381 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:33:11.166 plugin-container[49399:2215276] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:33:11.167 plugin-container[49399:2215276] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:33:11.176 plugin-container[49399:2215276] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:33:11.176 plugin-container[49399:2215276] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:33:11.176 plugin-container[49399:2215291] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:33:11.176 plugin-container[49399:2215291] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilenoKDO5/thumbnails) because it does not exist
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1679477617004	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679477617607	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1679477692935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiledz5AXR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679477693397	Marionette	INFO	Marionette enabled
+1679477693512	Marionette	INFO	Listening on port 51205
+2023-03-22 18:34:53.573 plugin-container[49530:2217088] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:34:53.574 plugin-container[49530:2217088] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:34:53.580 plugin-container[49530:2217088] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:34:53.581 plugin-container[49530:2217088] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:34:53.581 plugin-container[49530:2217093] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:34:53.581 plugin-container[49530:2217093] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679477694000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:34:56.254 plugin-container[49539:2217343] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:34:56.254 plugin-container[49539:2217343] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:34:56.261 plugin-container[49539:2217343] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:34:56.261 plugin-container[49539:2217343] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:34:56.261 plugin-container[49539:2217342] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:34:56.261 plugin-container[49539:2217342] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6382 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:34:58.735 plugin-container[49546:2217557] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:34:58.735 plugin-container[49546:2217557] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:34:58.742 plugin-container[49546:2217557] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:34:58.742 plugin-container[49546:2217557] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:34:58.742 plugin-container[49546:2217568] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:34:58.742 plugin-container[49546:2217568] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679477722030	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiledz5AXR/thumbnails) because it does not exist
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+2023-03-22 18:37:49.789 firefox-bin[49527:2216969] CoreText note: Client requested name ".SFNS-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2023-03-22 18:37:49.789 firefox-bin[49527:2216969] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "stylesheets: fetch failed for https://kinmu-apcom--teamspirit.vf.force.com/sCSS/57.0/sprites/1677790414000/Theme3/ja/base/extended.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://kinmu-apcom--teamspirit.vf.force.com/sCSS/57.0/sprites/1677790414000/Theme3/ja/base/extended.css, using system principal instead."
+JavaScript error: https://kinmu-apcom--teamspirit.vf.force.com/resource/teamspirit__AtkJS/dojo/dojo/dojo.js?v1.16.4, line 8: SecurityError: The operation is insecure.
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal19327352833/pagestyle29, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1679478030126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilebEKb4P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679478030828	Marionette	INFO	Marionette enabled
+2023-03-22 18:40:31.001 plugin-container[49914:2223889] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:40:31.001 plugin-container[49914:2223889] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:40:31.008 plugin-container[49914:2223889] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:40:31.008 plugin-container[49914:2223889] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:40:31.008 plugin-container[49914:2223891] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:40:31.009 plugin-container[49914:2223891] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679478031159	Marionette	INFO	Listening on port 51376
+1679478031408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:40:33.721 plugin-container[49919:2224150] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:40:33.722 plugin-container[49919:2224150] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:40:33.727 plugin-container[49919:2224150] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:40:33.727 plugin-container[49919:2224150] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:40:33.728 plugin-container[49919:2224153] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:40:33.728 plugin-container[49919:2224153] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:40:36.680 plugin-container[49930:2224330] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:40:36.681 plugin-container[49930:2224330] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:40:36.696 plugin-container[49930:2224330] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:40:36.696 plugin-container[49930:2224330] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:40:36.697 plugin-container[49930:2224345] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:40:36.697 plugin-container[49930:2224345] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679478057592	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilebEKb4P/thumbnails) because it does not exist
+1679478294798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile6aWwjR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679478295550	Marionette	INFO	Marionette enabled
+2023-03-22 18:44:55.715 plugin-container[50249:2229269] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:44:55.716 plugin-container[50249:2229269] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:44:55.723 plugin-container[50249:2229269] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:44:55.723 plugin-container[50249:2229269] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:44:55.723 plugin-container[50249:2229267] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:44:55.723 plugin-container[50249:2229267] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679478295873	Marionette	INFO	Listening on port 51450
+1679478296105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:44:58.404 plugin-container[50256:2229566] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:44:58.404 plugin-container[50256:2229566] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:44:58.409 plugin-container[50256:2229566] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:44:58.409 plugin-container[50256:2229566] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:44:58.410 plugin-container[50256:2229560] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:44:58.410 plugin-container[50256:2229560] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1098 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:45:01.053 plugin-container[50269:2229732] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:45:01.053 plugin-container[50269:2229732] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:45:01.059 plugin-container[50269:2229732] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:45:01.059 plugin-container[50269:2229732] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:45:01.059 plugin-container[50269:2229758] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:45:01.059 plugin-container[50269:2229758] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679478322129	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile6aWwjR/thumbnails) because it does not exist
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+1679478436039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileXfJxZ4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679478436772	Marionette	INFO	Marionette enabled
+2023-03-22 18:47:16.941 plugin-container[50436:2232614] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:47:16.941 plugin-container[50436:2232614] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:47:16.946 plugin-container[50436:2232614] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:47:16.947 plugin-container[50436:2232614] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:47:16.947 plugin-container[50436:2232612] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:47:16.947 plugin-container[50436:2232612] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679478437096	Marionette	INFO	Listening on port 51532
+1679478437307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:47:19.418 plugin-container[50441:2232855] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:47:19.418 plugin-container[50441:2232855] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:47:19.424 plugin-container[50441:2232855] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:47:19.424 plugin-container[50441:2232855] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:47:19.424 plugin-container[50441:2232859] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:47:19.424 plugin-container[50441:2232859] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2446 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:47:21.602 plugin-container[50451:2233001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:47:21.603 plugin-container[50451:2233001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:47:21.609 plugin-container[50451:2233001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:47:21.609 plugin-container[50451:2233001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:47:21.609 plugin-container[50451:2233014] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:47:21.609 plugin-container[50451:2233014] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679478462545	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileXfJxZ4/thumbnails) because it does not exist
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+1679478714436	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileYB9uSd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679478715257	Marionette	INFO	Marionette enabled
+2023-03-22 18:51:55.433 plugin-container[50747:2237135] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:51:55.433 plugin-container[50747:2237135] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:51:55.440 plugin-container[50747:2237135] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:51:55.440 plugin-container[50747:2237135] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:51:55.441 plugin-container[50747:2237137] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:51:55.441 plugin-container[50747:2237137] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679478715587	Marionette	INFO	Listening on port 51619
+1679478715828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:51:58.150 plugin-container[50754:2237443] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:51:58.150 plugin-container[50754:2237443] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:51:58.156 plugin-container[50754:2237443] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:51:58.156 plugin-container[50754:2237443] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:51:58.157 plugin-container[50754:2237468] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:51:58.157 plugin-container[50754:2237468] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7483 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:52:00.284 plugin-container[50763:2237615] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:52:00.285 plugin-container[50763:2237615] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:52:00.318 plugin-container[50763:2237615] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:52:00.318 plugin-container[50763:2237615] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:52:00.322 plugin-container[50763:2237640] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:52:00.322 plugin-container[50763:2237640] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679478741830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileYB9uSd/thumbnails) because it does not exist
+1679478869938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQyQPYn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679478870730	Marionette	INFO	Marionette enabled
+2023-03-22 18:54:30.895 plugin-container[50953:2240942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:54:30.895 plugin-container[50953:2240942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:54:30.901 plugin-container[50953:2240942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:54:30.901 plugin-container[50953:2240942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:54:30.902 plugin-container[50953:2240953] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:54:30.902 plugin-container[50953:2240953] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679478871055	Marionette	INFO	Listening on port 51694
+1679478871465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:54:33.928 plugin-container[50960:2241234] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:54:33.928 plugin-container[50960:2241234] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:54:33.936 plugin-container[50960:2241234] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:54:33.936 plugin-container[50960:2241234] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:54:33.940 plugin-container[50960:2241233] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:54:33.940 plugin-container[50960:2241233] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2665 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:54:36.622 plugin-container[50971:2241412] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:54:36.622 plugin-container[50971:2241412] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:54:36.630 plugin-container[50971:2241412] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:54:36.631 plugin-container[50971:2241412] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:54:36.631 plugin-container[50971:2241423] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:54:36.631 plugin-container[50971:2241423] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679478897674	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQyQPYn/thumbnails) because it does not exist
+1679479035114	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileSijJq5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679479035885	Marionette	INFO	Marionette enabled
+2023-03-22 18:57:16.063 plugin-container[51149:2244547] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:57:16.063 plugin-container[51149:2244547] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:57:16.070 plugin-container[51149:2244547] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:57:16.070 plugin-container[51149:2244547] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:57:16.070 plugin-container[51149:2244549] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:57:16.070 plugin-container[51149:2244549] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679479036212	Marionette	INFO	Listening on port 51766
+1679479036733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:57:19.308 plugin-container[51156:2244881] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:57:19.308 plugin-container[51156:2244881] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:57:19.316 plugin-container[51156:2244881] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:57:19.317 plugin-container[51156:2244881] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:57:19.317 plugin-container[51156:2244880] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:57:19.317 plugin-container[51156:2244880] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 67 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:57:21.646 plugin-container[51167:2245099] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:57:21.646 plugin-container[51167:2245099] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:57:21.652 plugin-container[51167:2245099] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:57:21.652 plugin-container[51167:2245099] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:57:21.652 plugin-container[51167:2245102] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:57:21.652 plugin-container[51167:2245102] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679479062677	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileSijJq5/thumbnails) because it does not exist
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://global/content/neterror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'chrome://global/content/neterror/aboutNetErrorCodes.js'
+1679479119217	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileSnMa3d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679479120013	Marionette	INFO	Marionette enabled
+2023-03-22 18:58:40.189 plugin-container[51290:2247171] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:58:40.190 plugin-container[51290:2247171] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:58:40.197 plugin-container[51290:2247171] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:58:40.197 plugin-container[51290:2247171] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 18:58:40.198 plugin-container[51290:2247177] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 18:58:40.198 plugin-container[51290:2247177] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679479120347	Marionette	INFO	Listening on port 51847
+1679479120759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 09:58:43.463 plugin-container[51297:2247488] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:58:43.842 plugin-container[51297:2247488] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:58:43.849 plugin-container[51297:2247488] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:58:43.849 plugin-container[51297:2247488] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:58:43.850 plugin-container[51297:2247497] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:58:43.850 plugin-container[51297:2247497] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4332 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 09:58:45.773 plugin-container[51306:2247646] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:58:45.773 plugin-container[51306:2247646] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:58:45.779 plugin-container[51306:2247646] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:58:45.779 plugin-container[51306:2247646] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 09:58:45.779 plugin-container[51306:2247684] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 09:58:45.779 plugin-container[51306:2247684] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679479146928	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileSnMa3d/thumbnails) because it does not exist
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+1679479461074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile3gxQCU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679479461995	Marionette	INFO	Marionette enabled
+2023-03-22 19:04:22.191 plugin-container[51672:2254067] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:04:22.191 plugin-container[51672:2254067] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:04:22.199 plugin-container[51672:2254067] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:04:22.199 plugin-container[51672:2254067] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:04:22.199 plugin-container[51672:2254073] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:04:22.199 plugin-container[51672:2254073] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679479462336	Marionette	INFO	Listening on port 51975
+1679479462804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 10:04:26.572 plugin-container[51679:2254325] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:04:26.573 plugin-container[51679:2254325] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:04:26.584 plugin-container[51679:2254325] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:04:26.584 plugin-container[51679:2254325] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:04:26.584 plugin-container[51679:2254361] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:04:26.584 plugin-container[51679:2254361] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 10:04:30.184 plugin-container[51694:2254699] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:04:30.184 plugin-container[51694:2254699] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:04:30.190 plugin-container[51694:2254699] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:04:30.190 plugin-container[51694:2254699] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:04:30.191 plugin-container[51694:2254704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:04:30.191 plugin-container[51694:2254704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679479490828	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile3gxQCU/thumbnails) because it does not exist
+1679480696026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileVCXtBn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679480696856	Marionette	INFO	Marionette enabled
+2023-03-22 19:24:57.041 plugin-container[52977:2278153] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:24:57.041 plugin-container[52977:2278153] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:24:57.049 plugin-container[52977:2278153] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:24:57.049 plugin-container[52977:2278153] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:24:57.050 plugin-container[52977:2278160] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:24:57.050 plugin-container[52977:2278160] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679480697184	Marionette	INFO	Listening on port 52157
+1679480697404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 10:25:00.608 plugin-container[52984:2278459] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:25:00.608 plugin-container[52984:2278459] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:25:00.619 plugin-container[52984:2278459] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:25:00.619 plugin-container[52984:2278459] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:25:00.619 plugin-container[52984:2278534] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:25:00.619 plugin-container[52984:2278534] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 7465 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 10:25:02.772 plugin-container[52993:2278677] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:25:02.773 plugin-container[52993:2278677] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:25:02.778 plugin-container[52993:2278677] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:25:02.778 plugin-container[52993:2278677] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:25:02.778 plugin-container[52993:2278681] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:25:02.778 plugin-container[52993:2278681] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679480723836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileVCXtBn/thumbnails) because it does not exist
+1679480864962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilegwA0mG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679480865735	Marionette	INFO	Marionette enabled
+2023-03-22 19:27:45.905 plugin-container[53225:2282634] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:27:45.906 plugin-container[53225:2282634] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:27:45.913 plugin-container[53225:2282634] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:27:45.914 plugin-container[53225:2282634] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:27:45.914 plugin-container[53225:2282636] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:27:45.914 plugin-container[53225:2282636] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679480866060	Marionette	INFO	Listening on port 52285
+1679480866577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 10:27:48.851 plugin-container[53233:2282974] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:27:48.852 plugin-container[53233:2282974] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:27:48.858 plugin-container[53233:2282974] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:27:48.858 plugin-container[53233:2282974] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:27:48.858 plugin-container[53233:2282973] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:27:48.859 plugin-container[53233:2282973] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 10:27:51.361 plugin-container[53244:2283198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:27:51.362 plugin-container[53244:2283198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:27:51.370 plugin-container[53244:2283198] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:27:51.370 plugin-container[53244:2283198] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:27:51.370 plugin-container[53244:2283193] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:27:51.371 plugin-container[53244:2283193] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679480892236	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilegwA0mG/thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5721 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679480923240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiletCouaY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679480923990	Marionette	INFO	Marionette enabled
+2023-03-22 19:28:44.163 plugin-container[53320:2284811] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:28:44.164 plugin-container[53320:2284811] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:28:44.171 plugin-container[53320:2284811] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:28:44.171 plugin-container[53320:2284811] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:28:44.171 plugin-container[53320:2284808] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:28:44.171 plugin-container[53320:2284808] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679480924326	Marionette	INFO	Listening on port 52368
+1679480924558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 10:28:46.989 plugin-container[53329:2285133] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:28:46.989 plugin-container[53329:2285133] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:28:47.002 plugin-container[53329:2285133] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:28:47.002 plugin-container[53329:2285133] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:28:47.003 plugin-container[53329:2285135] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:28:47.003 plugin-container[53329:2285135] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 2675 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 10:28:49.524 plugin-container[53336:2285378] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:28:49.525 plugin-container[53336:2285378] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:28:49.531 plugin-container[53336:2285378] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:28:49.531 plugin-container[53336:2285378] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:28:49.531 plugin-container[53336:2285387] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:28:49.531 plugin-container[53336:2285387] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679480950542	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiletCouaY/thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4460 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679481004619	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilejigeyP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679481005391	Marionette	INFO	Marionette enabled
+2023-03-22 19:30:05.562 plugin-container[53457:2287367] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:30:05.562 plugin-container[53457:2287367] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:30:05.570 plugin-container[53457:2287367] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:30:05.570 plugin-container[53457:2287367] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:30:05.571 plugin-container[53457:2287371] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:30:05.571 plugin-container[53457:2287371] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679481005714	Marionette	INFO	Listening on port 52453
+1679481006129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 10:30:08.676 plugin-container[53465:2287699] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:30:08.677 plugin-container[53465:2287699] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:30:08.683 plugin-container[53465:2287699] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:30:08.683 plugin-container[53465:2287699] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:30:08.683 plugin-container[53465:2287698] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:30:08.683 plugin-container[53465:2287698] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 6701 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 10:30:11.029 plugin-container[53475:2287912] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:30:11.030 plugin-container[53475:2287912] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:30:11.035 plugin-container[53475:2287912] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:30:11.035 plugin-container[53475:2287912] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:30:11.036 plugin-container[53475:2287927] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:30:11.036 plugin-container[53475:2287927] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679481032099	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilejigeyP/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileYu4mPG/thumbnails) because it does not exist
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+JavaScript error: resource://devtools/client/shared/undo.js, line 144: TypeError: controllerWindow is null
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilenoKDO5/thumbnails) because it does not exist
+1679481296232	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileeWx74n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679481297208	Marionette	INFO	Marionette enabled
+1679481297366	Marionette	INFO	Listening on port 52537
+2023-03-22 19:34:57.399 plugin-container[53814:2293377] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:34:57.419 plugin-container[53814:2293377] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:34:57.430 plugin-container[53814:2293377] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:34:57.430 plugin-container[53814:2293377] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:34:57.431 plugin-container[53814:2293379] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:34:57.431 plugin-container[53814:2293379] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679481297820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 10:35:00.311 plugin-container[53821:2293695] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:35:00.311 plugin-container[53821:2293695] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:35:00.316 plugin-container[53821:2293695] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:35:00.317 plugin-container[53821:2293695] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:35:00.317 plugin-container[53821:2293696] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:35:00.317 plugin-container[53821:2293696] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 5317 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 10:35:03.060 plugin-container[53830:2293898] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:35:03.061 plugin-container[53830:2293898] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:35:03.066 plugin-container[53830:2293898] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:35:03.066 plugin-container[53830:2293898] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:35:03.066 plugin-container[53830:2293909] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:35:03.067 plugin-container[53830:2293909] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiledz5AXR/thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679481324205	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileeWx74n/thumbnails) because it does not exist
+1679481470518	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile4dhZxz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679481471330	Marionette	INFO	Marionette enabled
+2023-03-22 19:37:51.506 plugin-container[54051:2296902] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:37:51.506 plugin-container[54051:2296902] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:37:51.514 plugin-container[54051:2296902] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:37:51.514 plugin-container[54051:2296902] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 19:37:51.515 plugin-container[54051:2296900] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 19:37:51.515 plugin-container[54051:2296900] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679481471665	Marionette	INFO	Listening on port 52661
+1679481471902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 10:37:54.261 plugin-container[54056:2297224] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:37:54.262 plugin-container[54056:2297224] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:37:54.268 plugin-container[54056:2297224] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:37:54.268 plugin-container[54056:2297224] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 10:37:54.268 plugin-container[54056:2297204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 10:37:54.268 plugin-container[54056:2297204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1679481475930	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile4dhZxz/thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilebEKb4P/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile6aWwjR/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileXfJxZ4/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileYB9uSd/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQyQPYn/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileSijJq5/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileSnMa3d/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile3gxQCU/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileVCXtBn/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilegwA0mG/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiletCouaY/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilejigeyP/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileYu4mPG/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilenoKDO5/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiledz5AXR/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileeWx74n/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile4dhZxz/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilebEKb4P/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile6aWwjR/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileXfJxZ4/thumbnails) because it does not exist
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileYB9uSd/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQyQPYn/thumbnails) because it does not exist
+1679486170921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileuJJTXU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679486171883	Marionette	INFO	Marionette enabled
+2023-03-22 20:56:12.098 plugin-container[58686:2352668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 20:56:12.099 plugin-container[58686:2352668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 20:56:12.107 plugin-container[58686:2352668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 20:56:12.107 plugin-container[58686:2352668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 20:56:12.108 plugin-container[58686:2352674] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 20:56:12.108 plugin-container[58686:2352674] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679486172265	Marionette	INFO	Listening on port 53053
+1679486172536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 11:56:14.769 plugin-container[58691:2352968] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:56:14.769 plugin-container[58691:2352968] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:56:14.776 plugin-container[58691:2352968] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:56:14.776 plugin-container[58691:2352968] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:56:14.776 plugin-container[58691:2352992] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:56:14.777 plugin-container[58691:2352992] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 123 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 11:56:16.895 plugin-container[58701:2353147] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:56:16.895 plugin-container[58701:2353147] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:56:16.909 plugin-container[58701:2353147] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:56:16.909 plugin-container[58701:2353147] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:56:16.910 plugin-container[58701:2353160] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:56:16.910 plugin-container[58701:2353160] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679486198132	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileuJJTXU/thumbnails) because it does not exist
+1679486254749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilem8LQqC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679486255589	Marionette	INFO	Marionette enabled
+2023-03-22 20:57:35.752 plugin-container[58817:2354662] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 20:57:35.752 plugin-container[58817:2354662] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 20:57:35.759 plugin-container[58817:2354662] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 20:57:35.759 plugin-container[58817:2354662] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 20:57:35.760 plugin-container[58817:2354668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 20:57:35.760 plugin-container[58817:2354668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679486255914	Marionette	INFO	Listening on port 53130
+1679486256146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+2023-03-22 11:57:38.890 plugin-container[58824:2354955] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:57:38.891 plugin-container[58824:2354955] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:57:38.898 plugin-container[58824:2354955] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:57:38.898 plugin-container[58824:2354955] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:57:38.899 plugin-container[58824:2354980] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:57:38.899 plugin-container[58824:2354980] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 3221 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 11:57:41.061 plugin-container[58833:2355134] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:57:41.061 plugin-container[58833:2355134] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:57:41.067 plugin-container[58833:2355134] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:57:41.067 plugin-container[58833:2355134] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:57:41.068 plugin-container[58833:2355144] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:57:41.068 plugin-container[58833:2355144] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileSijJq5/thumbnails) because it does not exist
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679486281835	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilem8LQqC/thumbnails) because it does not exist
+1679486308483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileFfs5ED"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679486310023	Marionette	INFO	Marionette enabled
+2023-03-22 20:58:30.236 plugin-container[58907:2356658] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 20:58:30.237 plugin-container[58907:2356658] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 20:58:30.277 plugin-container[58907:2356658] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 20:58:30.277 plugin-container[58907:2356658] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 20:58:30.278 plugin-container[58907:2356663] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 20:58:30.278 plugin-container[58907:2356663] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679486310452	Marionette	INFO	Listening on port 53198
+1679486310999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 11:58:32.886 plugin-container[58920:2356927] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:58:32.886 plugin-container[58920:2356927] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:58:32.895 plugin-container[58920:2356927] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:58:32.895 plugin-container[58920:2356927] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:58:32.896 plugin-container[58920:2356928] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:58:32.896 plugin-container[58920:2356928] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 1679 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 11:58:35.486 plugin-container[58935:2357167] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:58:35.486 plugin-container[58935:2357167] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:58:35.493 plugin-container[58935:2357167] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:58:35.493 plugin-container[58935:2357167] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 11:58:35.494 plugin-container[58935:2357181] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 11:58:35.494 plugin-container[58935:2357181] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679486336268	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileFfs5ED/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileSnMa3d/thumbnails) because it does not exist
+1679486352845	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1679486357446	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679486429924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQmrhdj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679486431033	Marionette	INFO	Marionette enabled
+1679486431121	Marionette	INFO	Listening on port 53298
+2023-03-22 21:00:31.227 plugin-container[59082:2359772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 21:00:31.228 plugin-container[59082:2359772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 21:00:31.236 plugin-container[59082:2359772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 21:00:31.237 plugin-container[59082:2359772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 21:00:31.237 plugin-container[59082:2359774] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 21:00:31.237 plugin-container[59082:2359774] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679486431836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-22 12:00:34.177 plugin-container[59089:2360041] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:00:34.178 plugin-container[59089:2360041] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 12:00:34.185 plugin-container[59089:2360041] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:00:34.185 plugin-container[59089:2360041] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 12:00:34.185 plugin-container[59089:2360045] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:00:34.185 plugin-container[59089:2360045] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 729 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 12:00:36.808 plugin-container[59101:2360244] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:00:36.809 plugin-container[59101:2360244] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 12:00:36.816 plugin-container[59101:2360244] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:00:36.816 plugin-container[59101:2360244] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 12:00:36.817 plugin-container[59101:2360237] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:00:36.817 plugin-container[59101:2360237] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679486459652	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQmrhdj/thumbnails) because it does not exist
+1679486476247	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1679486479895	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679486491627	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679486513265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilewQxlEM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679486514119	Marionette	INFO	Marionette enabled
+2023-03-22 21:01:54.309 plugin-container[59208:2362331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 21:01:54.310 plugin-container[59208:2362331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 21:01:54.319 plugin-container[59208:2362331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 21:01:54.319 plugin-container[59208:2362331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 21:01:54.319 plugin-container[59208:2362333] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 21:01:54.319 plugin-container[59208:2362333] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679486514453	Marionette	INFO	Listening on port 53419
+1679486514958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+2023-03-22 12:01:57.520 plugin-container[59217:2362562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:01:57.521 plugin-container[59217:2362562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 12:01:57.529 plugin-container[59217:2362562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:01:57.529 plugin-container[59217:2362562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 12:01:57.530 plugin-container[59217:2362569] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:01:57.531 plugin-container[59217:2362569] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/n7KdSiWJFgbDLHajlxoGzrM9J1DJZleIE0kt7I04uFE.js line 2 > eval line 4941 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-22 12:01:59.914 plugin-container[59224:2362732] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:01:59.915 plugin-container[59224:2362732] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 12:01:59.924 plugin-container[59224:2362732] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:01:59.924 plugin-container[59224:2362732] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-22 12:01:59.924 plugin-container[59224:2362747] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-22 12:01:59.924 plugin-container[59224:2362747] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679486540773	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilewQxlEM/thumbnails) because it does not exist
+1679486557240	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1679486561376	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679486572696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679486590627	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679486596066	Marionette	INFO	Stopped listening on port 53419
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile3gxQCU/thumbnails) because it does not exist

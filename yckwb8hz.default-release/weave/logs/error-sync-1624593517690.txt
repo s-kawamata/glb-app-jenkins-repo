@@ -1,0 +1,31 @@
+1624588437841	Sync.LogManager	DEBUG	Flushing file log
+1624588437855	Sync.LogManager	DEBUG	Log cleanup threshold time: 1623724437855
+1624588437886	Sync.LogManager	DEBUG	Done deleting files.
+1624589260628	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1624589260660	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1624589261116	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1624589261116	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1624589261117	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1624589265439	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1624589269775	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1624593503647	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1624593503682	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1624593504100	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1624593515629	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1624593517133	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1624593517682	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1624593517682	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1624593517685	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1624593517686	Sync.Service	DEBUG	User-Agent: Firefox/89.0.2 (Intel Mac OS X 10.15) FxSync/1.91.0.20210622155641.desktop
+1624593517686	Sync.Service	INFO	Starting sync at 2021-06-25 12:58:37 in browser session r0i2mpEwVbXA
+1624593517686	Sync.Service	DEBUG	In sync: should login.
+1624593517686	Sync.Service	INFO	User logged in successfully - verifying login.
+1624593517687	Sync.SyncAuthManager	DEBUG	unlockAndVerifyAuthState has no FxA user
+1624593517687	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1624593517687	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1624593517687	Sync.Service	DEBUG	Fetching unlocked auth state returned error.login.reason.no_username
+1624593517687	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1624593517688	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1624593517688	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1624593517689	Sync.Service	DEBUG	Exception calling WrappedLock: Error: Login failed: error.login.reason.no_username(resource://services-sync/service.js:1038:15) JS Stack trace: onNotify@service.js:1038:15
+1624593517689	Sync.Service	DEBUG	Not syncing: login returned false.
