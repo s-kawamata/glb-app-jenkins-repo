@@ -2096,3 +2096,128 @@ JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Cou
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQ34VgL/thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileA8VAM4/thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileAz5Mxt/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiledMqimf/thumbnails) because it does not exist
+1679545946113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileMvKc8w"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679545946827	Marionette	INFO	Marionette enabled
+1679545946915	Marionette	INFO	Listening on port 57124
+2023-03-23 13:32:27.031 plugin-container[89744:2698972] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 13:32:27.032 plugin-container[89744:2698972] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 13:32:27.052 plugin-container[89744:2698972] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 13:32:27.052 plugin-container[89744:2698972] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 13:32:27.053 plugin-container[89744:2698979] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 13:32:27.053 plugin-container[89744:2698979] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679545947734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2023-03-23 04:32:28.911 plugin-container[89748:2699170] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:32:28.911 plugin-container[89748:2699170] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:32:28.917 plugin-container[89748:2699170] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:32:28.917 plugin-container[89748:2699170] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:32:28.918 plugin-container[89748:2699171] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:32:28.918 plugin-container[89748:2699171] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/KyjXC9Dx9uMdK4CVFqApFSHrXMqYgfemPqOIhuZsvtM.js line 2 > eval line 4220 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-23 04:32:33.342 plugin-container[89759:2699373] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:32:33.343 plugin-container[89759:2699373] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:32:33.348 plugin-container[89759:2699373] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:32:33.348 plugin-container[89759:2699373] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:32:33.349 plugin-container[89759:2699385] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:32:33.349 plugin-container[89759:2699385] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilehmBRNU/thumbnails) because it does not exist
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679545969156	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileMvKc8w/thumbnails) because it does not exist
+1679545985722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://kinmu-apcom--teamspirit.vf.force.com/resource/teamspirit__AtkJS/dojo/dojo/dojo.js?v1.16.4, line 8: NetworkError: A network error occurred.
+1679546053416	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilehcSgkt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679546053958	Marionette	INFO	Marionette enabled
+1679546054033	Marionette	INFO	Listening on port 57240
+2023-03-23 13:34:14.110 plugin-container[89893:2701070] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 13:34:14.111 plugin-container[89893:2701070] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 13:34:14.119 plugin-container[89893:2701070] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 13:34:14.119 plugin-container[89893:2701070] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 13:34:14.119 plugin-container[89893:2701085] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 13:34:14.119 plugin-container[89893:2701085] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679546054904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+2023-03-23 04:34:16.348 plugin-container[89901:2701265] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:34:16.348 plugin-container[89901:2701265] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:34:16.354 plugin-container[89901:2701265] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:34:16.354 plugin-container[89901:2701265] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:34:16.354 plugin-container[89901:2701298] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:34:16.354 plugin-container[89901:2701298] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/KyjXC9Dx9uMdK4CVFqApFSHrXMqYgfemPqOIhuZsvtM.js line 2 > eval line 758 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-23 04:34:18.588 plugin-container[89908:2701415] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:34:18.589 plugin-container[89908:2701415] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:34:18.595 plugin-container[89908:2701415] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:34:18.595 plugin-container[89908:2701415] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:34:18.595 plugin-container[89908:2701431] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:34:18.596 plugin-container[89908:2701431] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679546074355	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilehcSgkt/thumbnails) because it does not exist
+1679546088923	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1679546094690	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679546112115	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679546126566	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679546128241	Marionette	INFO	Stopped listening on port 57240
+1679546210314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileWe5WYa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679546211081	Marionette	INFO	Marionette enabled
+2023-03-23 13:36:51.243 plugin-container[90105:2704104] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 13:36:51.244 plugin-container[90105:2704104] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 13:36:51.251 plugin-container[90105:2704104] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 13:36:51.251 plugin-container[90105:2704104] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 13:36:51.251 plugin-container[90105:2704111] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 13:36:51.251 plugin-container[90105:2704111] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679546211402	Marionette	INFO	Listening on port 57368
+1679546211883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-03-23 04:36:53.810 plugin-container[90113:2704398] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:36:53.810 plugin-container[90113:2704398] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:36:53.818 plugin-container[90113:2704398] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:36:53.819 plugin-container[90113:2704398] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:36:53.957 plugin-container[90113:2704407] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:36:53.958 plugin-container[90113:2704407] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/KyjXC9Dx9uMdK4CVFqApFSHrXMqYgfemPqOIhuZsvtM.js line 2 > eval line 6952 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-23 04:36:56.439 plugin-container[90124:2704610] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:36:56.439 plugin-container[90124:2704610] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:36:56.446 plugin-container[90124:2704610] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:36:56.446 plugin-container[90124:2704610] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 04:36:56.447 plugin-container[90124:2704605] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 04:36:56.447 plugin-container[90124:2704605] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1679546234768	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileWe5WYa/thumbnails) because it does not exist
+1679546251189	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1679546259928	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679546264380	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1679546272757	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679546274429	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1679546283156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679546283922	Marionette	INFO	Stopped listening on port 57368
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQ34VgL/thumbnails) because it does not exist

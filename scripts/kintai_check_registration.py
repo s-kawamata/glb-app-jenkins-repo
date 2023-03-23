@@ -16,6 +16,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.firefox.options import Options
+from dateutil.relativedelta import relativedelta
 
 #起動させた一ヶ月前の年月を取得
 
@@ -75,13 +76,11 @@ try:
 except NoSuchElementException as e:
   print(e)
 
-print("ログイン完了しました")
-time.sleep(7)
+time.sleep(5)
 
 #勤務表のタブをクリック
 driver.find_element_by_xpath('//*[@id="01r5F000000g5DS_Tab"]/a').click()
-
-driver.implicitly_wait(10)
+time.sleep(5)
 
 #メンバリスト分繰り返し処理を開始
 for i in user_list.nameList:
@@ -95,7 +94,7 @@ for i in user_list.nameList:
 
     #別ウインドウをアクティブに
     newhandles = driver.window_handles
-    driver.switch_to.window(newhandles [1])
+    driver.switch_to.window(newhandles [2])
 
     time.sleep(3)
 
@@ -112,7 +111,7 @@ for i in user_list.nameList:
 
 
     #元のウインドウに戻る
-    driver.switch_to.window(newhandles [0])
+    driver.switch_to.window(newhandles [1])
 
     time.sleep(3)
 
@@ -136,8 +135,5 @@ for i in user_list.nameList:
         print(i + 'さんはすでに' + last_month_str + 'の勤怠を提出しています')
 
 
-
-
 #完了処理
-print("処理が正常に完了しました。")
 driver.quit()
