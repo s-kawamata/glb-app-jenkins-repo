@@ -15,6 +15,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.firefox.options import Options
+from fabric.colors import red, green, yellow, blue, magenta, cyan, white
 
 # Firefox
 options = Options()
@@ -110,7 +111,7 @@ for user in user_list.nameList:
 
 
     if exceed_time < 25:
-        print(user + "さんの現在の超過時間:" + str(exceed_time) )
+        print(user + "さんの現在の超過時間: " + red(str(exceed_time)) )
         #print("問題なし")
 
     elif exceed_time >= 25:
