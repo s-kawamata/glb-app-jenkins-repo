@@ -27,7 +27,7 @@ startTimeElement = "ttvTimeSt" + str(today)
 options = Options()
 firefox_profile = "./yckwb8hz.default-release"
 fp = webdriver.FirefoxProfile(firefox_profile)
-#options.headless = True
+options.headless = True
 firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
 driver = webdriver.Firefox(options=options,firefox_profile=fp,capabilities=firefox_capabilities)
 driver.set_window_size(1920, 1080)
