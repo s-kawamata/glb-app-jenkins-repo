@@ -111,7 +111,7 @@ for user in user_list.nameList:
 
     if exceed_time < 25:
         print(user + "さんの現在の超過時間:" + str(exceed_time) )
-        print("問題なし")
+        #print("問題なし")
 
     elif exceed_time >= 25:
         print(user + "さんの現在の超過時間:" + str(exceed_time) )
