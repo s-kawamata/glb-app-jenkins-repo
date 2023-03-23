@@ -45,7 +45,6 @@ try:
   driver.find_element_by_xpath("//*[contains(text(), 'TeamSpirit')]").click()
   time.sleep(5)
   handle_array = driver.window_handles
-  print(handle_array)
   driver.switch_to.window(handle_array[1])
   
   #お知らせウィンドウが開いていた場合は閉じる
@@ -68,7 +67,7 @@ try:
 except NoSuchElementException as e:
   print(e)
 
-print("ログイン完了しました")
+#print("ログイン完了しました")
 time.sleep(7)
 
 #勤務表のタブをクリック
@@ -116,16 +115,16 @@ for user in user_list.nameList:
 
     elif exceed_time >= 25:
         print(user + "さんの現在の超過時間:" + str(exceed_time) )
-        print("要注意")
+        #print("要注意")
 
     elif exceed_time >= 35:
         print(user + "さんの現在の超過時間:" + str(exceed_time) )
-        print("時間外労働時間が45時間を超えそうです。申請の準備をお願いします")
+        #print("時間外労働時間が45時間を超えそうです。申請の準備をお願いします")
 
     elif exceed_time >= 45:
         print(user + "さんの現在の超過時間:" + str(exceed_time) )
-        print("45時間を超えています!")
+        #print("45時間を超えています!")
 
 #完了処理
-print("処理が正常に完了しました。")
+#print("処理が正常に完了しました。")
 driver.quit()

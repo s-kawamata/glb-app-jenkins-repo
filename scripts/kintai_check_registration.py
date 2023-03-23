@@ -1,21 +1,21 @@
+import os
+import sys
+import datetime
 from selenium import webdriver
-#import chromedriver_binary
-#from webdriver_manager.chrome import ChromeDriverManager
-import user_info
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 import time
-from selenium.webdriver.support.select import Select
 from datetime import datetime, date, timedelta
-from dateutil.relativedelta import relativedelta
+from selenium.webdriver.support.ui import Select
+from webdriver_manager.chrome import ChromeDriverManager
+import user_info
 import user_list
-import sys
 from selenium.webdriver import DesiredCapabilities
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
-#sys.path.append("/Users/akatsukatakukai/Documents/working/kinmu_Bot")
+from selenium.webdriver.firefox.options import Options
 
 #起動させた一ヶ月前の年月を取得
 
@@ -24,34 +24,36 @@ last_month = now - relativedelta(months=1)
 last_month_str = last_month.strftime('%Y年%m月')
 
 
-# CHROMEDRIVER = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-# #ドライバー指定でChromeブラウザを開く
-# driver = webdriver.Chrome(ChromeDriverManager().install())
-
-driver = webdriver.Remote(
-     command_executor="http://selenium:4444/wd/hub",
-     desired_capabilities=DesiredCapabilities.CHROME.copy(),
- )
+# Firefox
+options = Options()
+firefox_profile = "./yckwb8hz.default-release"
+fp = webdriver.FirefoxProfile(firefox_profile)
+options.headless = True
+firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
+driver = webdriver.Firefox(options=options,firefox_profile=fp,capabilities=firefox_capabilities)
+driver.set_window_size(1920, 1080)
 
 # Googleアクセス
-driver.get('https://login.salesforce.com/?locale=jp')
+driver.get('https://www.google.com/?hl=ja')
 
 #ログイン開始
 try:
-  #ログイン画面にてクレデンシャルを入力
-  driver.find_element_by_xpath('//*[@id="username"]').send_keys(user_info.salesforce_id)
-  driver.find_element_by_xpath('//*[@id="password"]').send_keys(user_info.salesforce_passwd)
-  #ログインボタンをクリック
-  driver.find_element_by_xpath('//*[@id="Login"]').click()
+  #ここからSSO処理
   time.sleep(5)
-
-  #2段階認証を求められた場合は2分の認証時間を設ける
-  auth_check = driver.find_elements_by_xpath("//*[contains(text(), 'モバイルデバイスを確認')]")
-  if auth_check:
-    wait = WebDriverWait(driver, 120)
-    wait.until(expected_conditions.invisibility_of_element_located((By.ID, "header")))
-  else:
-    pass
+  elm = driver.find_element_by_xpath("//*[@class='gb_1e']")
+  actions = ActionChains(driver)
+  actions.move_to_element(elm)
+  actions.perform()
+  driver.find_element_by_xpath("//*[@aria-label='Google アプリ']").click()
+  actions.reset_actions()
+  time.sleep(5)
+  iframe = driver.find_element_by_xpath("//iframe[@role='presentation']")
+  driver.switch_to.frame(iframe)
+  time.sleep(5)
+  driver.find_element_by_xpath("//*[contains(text(), 'TeamSpirit')]").click()
+  time.sleep(5)
+  handle_array = driver.window_handles
+  driver.switch_to.window(handle_array[1])
   
   #お知らせウィンドウが開いていた場合は閉じる
   notification_window = driver.find_elements_by_xpath("//div[@data-dojo-attach-point='titleBar']/*[contains(text(), 'お知らせ')]")
@@ -64,11 +66,12 @@ try:
     pass
     
   time.sleep(5)
-  elm = driver.find_elements_by_xpath('//*[@id="phSearchContainer"]/div/div[1]')
+  elm = driver.find_elements_by_xpath("//a[@title='勤務表タブ']")
   if elm :
     pass 
   else :
     raise ValueError("ログインに失敗しました")
+
 except NoSuchElementException as e:
   print(e)
 
