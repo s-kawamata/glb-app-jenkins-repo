@@ -8,7 +8,7 @@ pipeline {
   agent any
 
   stages {
-    stage('勤怠確認') {
+    stage('勤怠申請完了確認') {
       steps {
               script {
                 result = shResult()

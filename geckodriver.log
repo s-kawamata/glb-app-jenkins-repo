@@ -2221,3 +2221,4 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173
 1679546283156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1679546283922	Marionette	INFO	Stopped listening on port 57368
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQ34VgL/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileA8VAM4/thumbnails) because it does not exist
