@@ -11,6 +11,7 @@ from selenium.webdriver.support.ui import Select
 from webdriver_manager.chrome import ChromeDriverManager
 import user_info
 import user_list
+import user_profile
 from selenium.webdriver import DesiredCapabilities
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
@@ -25,7 +26,7 @@ startTimeElement = "ttvTimeSt" + str(today)
 
 # Firefox
 options = Options()
-firefox_profile = "./yckwb8hz.default-release"
+firefox_profile = user_profile.shusei_kawamata
 fp = webdriver.FirefoxProfile(firefox_profile)
 options.headless = True
 firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
@@ -74,7 +75,6 @@ try:
 except NoSuchElementException as e:
   print(e)
 
-print("ログイン完了しました")
 time.sleep(7)
 
 #勤務表のタブをクリック
@@ -120,7 +120,7 @@ for i in user_list.nameList:
     #勤務開始の要素を確認し、未入力であればフラグを立てる
     try:
         status = driver.find_element_by_id(startTimeElement).get_attribute("textContent")
-        print(startTimeElement)
+        #print(startTimeElement)
     except:
         print('本日は休日です。もし休日出勤の場合は先に勤務申請を修正してください。')
         break
@@ -132,5 +132,4 @@ for i in user_list.nameList:
 
 
 #完了処理
-print("処理が正常に完了しました。")
 driver.quit()

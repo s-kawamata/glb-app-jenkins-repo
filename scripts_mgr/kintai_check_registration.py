@@ -11,6 +11,7 @@ from selenium.webdriver.support.ui import Select
 from webdriver_manager.chrome import ChromeDriverManager
 import user_info
 import user_list
+import user_profile
 from selenium.webdriver import DesiredCapabilities
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
@@ -27,9 +28,9 @@ last_month_str = last_month.strftime('%Y年%m月')
 
 # Firefox
 options = Options()
-firefox_profile = "./yckwb8hz.default-release"
+firefox_profile = user_profile.shusei_kawamata
 fp = webdriver.FirefoxProfile(firefox_profile)
-options.headless = True
+#options.headless = True
 firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
 driver = webdriver.Firefox(options=options,firefox_profile=fp,capabilities=firefox_capabilities)
 driver.set_window_size(1920, 1080)
@@ -41,7 +42,7 @@ driver.get('https://www.google.com/?hl=ja')
 try:
   #ここからSSO処理
   time.sleep(5)
-  elm = driver.find_element_by_xpath("//*[@class='gb_1e']")
+  elm = driver.find_element_by_xpath("//*[@aria-label='Google アプリ']")
   actions = ActionChains(driver)
   actions.move_to_element(elm)
   actions.perform()

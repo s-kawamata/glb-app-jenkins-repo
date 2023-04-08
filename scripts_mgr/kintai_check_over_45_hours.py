@@ -10,15 +10,17 @@ from selenium.webdriver.support.ui import Select
 from webdriver_manager.chrome import ChromeDriverManager
 import user_info
 import user_list
+import user_profile
 from selenium.webdriver import DesiredCapabilities
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.firefox.options import Options
+import user_profile
 
 # Firefox
 options = Options()
-firefox_profile = "./yckwb8hz.default-release"
+firefox_profile = user_profile.shusei_kawamata
 fp = webdriver.FirefoxProfile(firefox_profile)
 options.headless = True
 firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
