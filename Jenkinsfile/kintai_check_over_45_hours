@@ -1,6 +1,6 @@
 def shResult() {
     script {
-        sh script:'python3 scripts/kintai_check_over_45_hours.py', returnStdout: true
+        sh script:'python3 scripts_mgr/kintai_check_over_45_hours.py', returnStdout: true
     }
 }
 

@@ -30,7 +30,7 @@ last_month_str = last_month.strftime('%Y年%m月')
 options = Options()
 firefox_profile = user_profile.shusei_kawamata
 fp = webdriver.FirefoxProfile(firefox_profile)
-#options.headless = True
+options.headless = True
 firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
 driver = webdriver.Firefox(options=options,firefox_profile=fp,capabilities=firefox_capabilities)
 driver.set_window_size(1920, 1080)
@@ -82,6 +82,8 @@ time.sleep(5)
 #勤務表のタブをクリック
 driver.find_element_by_xpath('//*[@id="01r5F000000g5DS_Tab"]/a').click()
 time.sleep(5)
+
+print(last_month_str + 分の申請状況になります)
 
 #メンバリスト分繰り返し処理を開始
 for i in user_list.nameList:
