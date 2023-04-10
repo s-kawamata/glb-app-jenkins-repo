@@ -28,7 +28,8 @@ last_month_str = last_month.strftime('%Y年%m月')
 
 # Firefox
 options = Options()
-firefox_profile = user_profile.shusei_kawamata
+#firefox_profile = user_profile.shusei_kawamata
+firefox_profile = "/Users/s_kawamata/Library/Application Support/Firefox/Profiles/yckwb8hz.default-release/"
 fp = webdriver.FirefoxProfile(firefox_profile)
 options.headless = True
 firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
@@ -41,7 +42,14 @@ driver.get('https://www.google.com/?hl=ja')
 #ログイン開始
 try:
   #ここからSSO処理
+  driver.find_element_by_xpath("//*[contains(text(), 'ログイン')]").click()
+  time.sleep(5)  
+  driver.find_element_by_xpath("//*[contains(text(), '次へ')]").click()
   time.sleep(5)
+  driver.find_element_by_id("password").click()
+  driver.find_element_by_xpath("//input[@name='Passwd']").send_keys(user_profile.goolge_pw, Keys.ENTER)
+  time.sleep(5)
+
   elm = driver.find_element_by_xpath("//*[@aria-label='Google アプリ']")
   actions = ActionChains(driver)
   actions.move_to_element(elm)
@@ -56,6 +64,9 @@ try:
   time.sleep(5)
   handle_array = driver.window_handles
   driver.switch_to.window(handle_array[1])
+
+
+  
   
   #お知らせウィンドウが開いていた場合は閉じる
   notification_window = driver.find_elements_by_xpath("//div[@data-dojo-attach-point='titleBar']/*[contains(text(), 'お知らせ')]")
@@ -83,7 +94,7 @@ time.sleep(5)
 driver.find_element_by_xpath('//*[@id="01r5F000000g5DS_Tab"]/a').click()
 time.sleep(5)
 
-print(last_month_str + 分の申請状況になります)
+print(last_month_str + "分の申請状況になります")
 
 #メンバリスト分繰り返し処理を開始
 for i in user_list.nameList:

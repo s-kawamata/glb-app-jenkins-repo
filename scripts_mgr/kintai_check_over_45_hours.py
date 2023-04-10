@@ -22,7 +22,7 @@ import user_profile
 options = Options()
 firefox_profile = user_profile.shusei_kawamata
 fp = webdriver.FirefoxProfile(firefox_profile)
-options.headless = True
+#options.headless = True
 firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
 driver = webdriver.Firefox(options=options,firefox_profile=fp,capabilities=firefox_capabilities)
 driver.set_window_size(1920, 1080)
@@ -33,8 +33,15 @@ driver.get('https://www.google.com/?hl=ja')
 #ログイン開始
 try:
   #ここからSSO処理
+  driver.find_element_by_xpath("//*[contains(text(), 'ログイン')]").click()
+  time.sleep(5)  
+  driver.find_element_by_xpath("//*[contains(text(), '次へ')]").click()
   time.sleep(5)
-  elm = driver.find_element_by_xpath("//*[@class='gb_1e']")
+  driver.find_element_by_id("password").click()
+  driver.find_element_by_xpath("//input[@name='Passwd']").send_keys(user_profile.goolge_pw, Keys.ENTER)
+  time.sleep(5)
+
+  elm = driver.find_element_by_xpath("//*[@aria-label='Google アプリ']")
   actions = ActionChains(driver)
   actions.move_to_element(elm)
   actions.perform()
