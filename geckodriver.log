@@ -14534,3 +14534,59 @@ JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Cou
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile6RYEHw/thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileoFwaKo/thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilefGAbz3/thumbnails) because it does not exist
+1681110058946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileGhpaJi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681110059679	Marionette	INFO	Marionette enabled
+1681110059761	Marionette	INFO	Listening on port 55171
+2023-04-10 16:00:59.835 plugin-container[8065:331362] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-10 16:00:59.837 plugin-container[8065:331362] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-10 16:00:59.845 plugin-container[8065:331362] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-10 16:00:59.845 plugin-container[8065:331362] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-10 16:00:59.846 plugin-container[8065:331369] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-10 16:00:59.846 plugin-container[8065:331369] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1681110061704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+2023-04-10 07:01:07.139 plugin-container[8071:331904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-10 07:01:07.140 plugin-container[8071:331904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-10 07:01:07.147 plugin-container[8071:331904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-10 07:01:07.147 plugin-container[8071:331904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-10 07:01:07.147 plugin-container[8071:331924] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-10 07:01:07.147 plugin-container[8071:331924] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://accounts.google.com/v3/signin/confirmidentifier?dsh=S906687517%3A1681110069443251&continue=https%3A%2F%2Fwww.google.com%2F%3Fhl%3Dja&ec=GAZAmgQ&hl=ja&ifkv=AQMjQ7TMLnqzrKbHPGNRWvRKC4LD7YhaJr7F_l8MM6tKks0FI1yweb3RlqzpcDSV5ezBKaPe7X55tA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 365 > injectedScript line 2 > eval line 7076 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 163: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/v3/signin/confirmidentifier?dsh=S906687517%3A1681110069443251&continue=https%3A%2F%2Fwww.google.com%2F%3Fhl%3Dja&ec=GAZAmgQ&hl=ja&ifkv=AQMjQ7TMLnqzrKbHPGNRWvRKC4LD7YhaJr7F_l8MM6tKks0FI1yweb3RlqzpcDSV5ezBKaPe7X55tA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 365 > injectedScript line 2 > eval line 3176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/hMk8RYfShm1WO-i6nufLdZfHD_Dal5FkV6wggQWjY74.js line 2 > eval line 3360 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-04-10 07:01:23.602 plugin-container[8082:332378] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-10 07:01:23.603 plugin-container[8082:332378] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-10 07:01:23.614 plugin-container[8082:332378] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-10 07:01:23.614 plugin-container[8082:332378] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-10 07:01:23.614 plugin-container[8082:332383] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-10 07:01:23.614 plugin-container[8082:332383] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileGhpaJi/thumbnails) because it does not exist
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1681110097256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileqBvfht/thumbnails) because it does not exist
+1681110113990	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1681110118016	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681110129425	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681110147164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681110164546	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681110183227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681110199854	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681110217874	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681110235525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681110252644	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1681110258426	Marionette	INFO	Stopped listening on port 55171
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilePyqydn/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilefII39x/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile7aMAaJ/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileRlVdIT/thumbnails) because it does not exist

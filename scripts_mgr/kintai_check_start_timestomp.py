@@ -45,7 +45,8 @@ try:
   time.sleep(5)
   driver.find_element_by_id("password").click()
   driver.find_element_by_xpath("//input[@name='Passwd']").send_keys(user_profile.goolge_pw, Keys.ENTER)
-  time.sleep(10)
+  time.sleep(5)
+  print(driver.page_source)
 
   elm = driver.find_element_by_xpath("//*[@aria-label='Google アプリ']")
   actions = ActionChains(driver)
