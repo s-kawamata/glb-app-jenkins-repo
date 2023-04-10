@@ -28,8 +28,7 @@ last_month_str = last_month.strftime('%Y年%m月')
 
 # Firefox
 options = Options()
-#firefox_profile = user_profile.shusei_kawamata
-firefox_profile = "/Users/s_kawamata/Library/Application Support/Firefox/Profiles/yckwb8hz.default-release/"
+firefox_profile = user_profile.shusei_kawamata
 fp = webdriver.FirefoxProfile(firefox_profile)
 options.headless = True
 firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX

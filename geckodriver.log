@@ -14529,3 +14529,8 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 1681108723853	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1681108725317	Marionette	INFO	Stopped listening on port 54901
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek560jI/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilelHPeH5/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileN7kEfE/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile6RYEHw/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileoFwaKo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilefGAbz3/thumbnails) because it does not exist
