@@ -93,7 +93,7 @@ time.sleep(5)
 driver.find_element_by_xpath('//*[@id="01r5F000000g5DS_Tab"]/a').click()
 time.sleep(5)
 
-print(last_month_str + "分の申請状況になります")
+print(last_month_str + "分の申請状況になります\n")
 
 #メンバリスト分繰り返し処理を開始
 for i in user_list.nameList:
