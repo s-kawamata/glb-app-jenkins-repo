@@ -9,6 +9,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 from selenium.webdriver.support.ui import Select
 from webdriver_manager.chrome import ChromeDriverManager
+import chromedriver_binary
 import user_info
 import user_list
 import user_profile
@@ -33,20 +34,29 @@ firefox_capabilities = webdriver.DesiredCapabilities.FIREFOX
 driver = webdriver.Firefox(options=options,firefox_profile=fp,capabilities=firefox_capabilities)
 driver.set_window_size(1920, 1080)
 
+# #Chrome
+# options = Options()
+# options.add_argument('--user-data-dir=/Users/s_kawamata/Library/Application Support/Google/Chrome')
+# # options.add_argument('--profile-directory=Profile 8')
+# options.add_argument('--lang=en')
+# #path = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+
+# driver = webdriver.Chrome(options=options)
+
 # Googleアクセス
 driver.get('https://www.google.com/?hl=ja')
 
 #ログイン開始
 try:
   #ここからSSO処理
-  driver.find_element_by_xpath("//*[contains(text(), 'ログイン')]").click()
-  time.sleep(5)  
-  driver.find_element_by_xpath("//*[contains(text(), '次へ')]").click()
-  time.sleep(5)
-  driver.find_element_by_id("password").click()
-  driver.find_element_by_xpath("//input[@name='Passwd']").send_keys(user_profile.goolge_pw, Keys.ENTER)
-  time.sleep(5)
-  print(driver.page_source)
+  # driver.find_element_by_xpath("//*[contains(text(), 'ログイン')]").click()
+  # time.sleep(5)  
+  # driver.find_element_by_xpath("//*[contains(text(), '次へ')]").click()
+  # time.sleep(5)
+  # driver.find_element_by_id("password").click()
+  # driver.find_element_by_xpath("//input[@name='Passwd']").send_keys(user_profile.goolge_pw, Keys.ENTER)
+  # time.sleep(5)
+  # print(driver.page_source)
 
   elm = driver.find_element_by_xpath("//*[@aria-label='Google アプリ']")
   actions = ActionChains(driver)

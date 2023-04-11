@@ -33,13 +33,13 @@ driver.get('https://www.google.com/?hl=ja')
 #ログイン開始
 try:
   #ここからSSO処理
-  driver.find_element_by_xpath("//*[contains(text(), 'ログイン')]").click()
-  time.sleep(5)  
-  driver.find_element_by_xpath("//*[contains(text(), '次へ')]").click()
-  time.sleep(5)
-  driver.find_element_by_id("password").click()
-  driver.find_element_by_xpath("//input[@name='Passwd']").send_keys(user_profile.goolge_pw, Keys.ENTER)
-  time.sleep(5)
+  # driver.find_element_by_xpath("//*[contains(text(), 'ログイン')]").click()
+  # time.sleep(5)  
+  # driver.find_element_by_xpath("//*[contains(text(), '次へ')]").click()
+  # time.sleep(5)
+  # driver.find_element_by_id("password").click()
+  # driver.find_element_by_xpath("//input[@name='Passwd']").send_keys(user_profile.goolge_pw, Keys.ENTER)
+  # time.sleep(5)
 
   elm = driver.find_element_by_xpath("//*[@aria-label='Google アプリ']")
   actions = ActionChains(driver)

@@ -1,2 +1,0 @@
-{"timestamp":331317575,"category":"nimbus_events","name":"enrollment","extra":{"enrollment_id":"f0e29f15-0369-4669-81fc-2291ab3ce2fc","experiment_type":"nimbus","branch":"treatment-a","experiment":"firefox-accounts-toolbar-button-default-visibility"}}
-{"timestamp":352468518,"category":"nimbus_events","name":"unenrollment","extra":{"reason":"targeting-mismatch","experiment":"firefox-accounts-toolbar-button-default-visibility","enrollment_id":"f0e29f15-0369-4669-81fc-2291ab3ce2fc","branch":"treatment-a"}}
