@@ -1,6 +1,7 @@
 import os
 import sys
 import datetime
+import json
 from datetime import datetime, date, timedelta
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -13,17 +14,29 @@ import chromedriver_binary
 import user_info
 import user_list
 import user_profile
+import urllib.request
 from selenium.webdriver import DesiredCapabilities
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.firefox.options import Options
 
-#今日の日付を取得し、要素検索用に加工
 
+#今日の日付を取得し、要素検索用に加工​
 today = date.today()
 startTimeElement = "ttvTimeSt" + str(today)
 
+# 祝日リストを取得
+url = "https://holidays-jp.github.io/api/v1/date.json"
+with urllib.request.urlopen(url) as f:
+    holidays = json.loads(f.read().decode())
+
+# 土曜日、日曜日、祝日であるかを判定
+if today.weekday() == 5 or today.weekday() == 6 or str(today) in holidays:
+    print("今日は休日のため、処理を終了します")
+    sys.exit()
+else:
+    pass
 
 # Firefox
 options = Options()
@@ -107,18 +120,14 @@ for i in user_list.nameList:
 
     time.sleep(3)
 
-
-
     #別ウインドウをアクティブに
     newhandles = driver.window_handles
     driver.switch_to.window(newhandles [2])
 
     time.sleep(3)
 
-
     #メンバ名を検索、クリック
     driver.find_element_by_link_text(i).click()
-
 
     #元のウインドウに戻る
     driver.switch_to.window(newhandles [1])
@@ -140,14 +149,13 @@ for i in user_list.nameList:
         status = driver.find_element_by_id(startTimeElement).get_attribute("textContent")
         #print(startTimeElement)
     except:
-        print('本日は休日です。もし休日出勤の場合は先に勤務申請を修正してください。')
+        print('本日は休暇です。')
         break
 
     if status == '':
         print(i + 'さんはまだ本日の勤怠開始を打刻していません')
     else :
         print(i + 'さんはすでに本日の勤怠開始を打刻しています')
-
 
 #完了処理
 driver.quit()
