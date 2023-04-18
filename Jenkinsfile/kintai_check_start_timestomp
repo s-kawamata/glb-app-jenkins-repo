@@ -1,3 +1,5 @@
+def result
+
 def shResult() {
     script {
         sh script:'python3 scripts_mgr/kintai_check_start_timestomp.py', returnStdout: true
