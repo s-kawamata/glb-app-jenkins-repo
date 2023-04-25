@@ -32679,3 +32679,162 @@ JavaScript warning: https://www.google.com/js/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pV
 2023-04-25 04:50:36.997 plugin-container[71337:11359970] nil host used in call to allowsAnyHTTPSCertificateForHost:
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+1682398684884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileUuYelC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682398685383	Marionette	INFO	Marionette enabled
+1682398685508	Marionette	INFO	Listening on port 54328
+2023-04-25 13:58:05.607 plugin-container[72595:11370344] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 13:58:05.607 plugin-container[72595:11370344] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 13:58:05.632 plugin-container[72595:11370344] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 13:58:05.632 plugin-container[72595:11370344] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 13:58:05.632 plugin-container[72595:11370353] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 13:58:05.632 plugin-container[72595:11370353] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682398686765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-04-25 04:58:09.288 plugin-container[72609:11370712] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 04:58:09.288 plugin-container[72609:11370712] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 04:58:09.294 plugin-container[72609:11370712] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 04:58:09.294 plugin-container[72609:11370712] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 04:58:09.294 plugin-container[72609:11370711] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 04:58:09.294 plugin-container[72609:11370711] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/v3/signin/confirmidentifier?dsh=S-586698420%3A1682398724131468&continue=https%3A%2F%2Fwww.google.com%2F%3Fhl%3Dja&ec=GAZAmgQ&hl=ja&ifkv=AQMjQ7TDhkZghII3IKC_1fUA6zAyjNMYBrjXlnMrHn6SV1MHhuUKSjD1t2HFmr_S_ulCrTpmHnAN&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 4 > injectedScript line 2 > eval line 3393 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 163: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/v3/signin/confirmidentifier?dsh=S-586698420%3A1682398724131468&continue=https%3A%2F%2Fwww.google.com%2F%3Fhl%3Dja&ec=GAZAmgQ&hl=ja&ifkv=AQMjQ7TDhkZghII3IKC_1fUA6zAyjNMYBrjXlnMrHn6SV1MHhuUKSjD1t2HFmr_S_ulCrTpmHnAN&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 4 > injectedScript line 2 > eval line 6505 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3344 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-04-25 04:58:53.192 plugin-container[72718:11371810] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 04:58:53.193 plugin-container[72718:11371810] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 04:58:53.199 plugin-container[72718:11371810] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 04:58:53.200 plugin-container[72718:11371810] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 04:58:53.200 plugin-container[72718:11371823] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 04:58:53.200 plugin-container[72718:11371823] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682398749044	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile7oDWjs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682398749627	Marionette	INFO	Marionette enabled
+1682398749838	Marionette	INFO	Listening on port 54375
+2023-04-25 13:59:09.962 plugin-container[72776:11372603] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 13:59:09.962 plugin-container[72776:11372603] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 13:59:09.999 plugin-container[72776:11372603] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 13:59:09.999 plugin-container[72776:11372603] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 13:59:10.000 plugin-container[72776:11372620] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 13:59:10.000 plugin-container[72776:11372620] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682398751702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-04-25 04:59:13.766 plugin-container[72789:11373025] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 04:59:13.766 plugin-container[72789:11373025] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 04:59:13.772 plugin-container[72789:11373025] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 04:59:13.772 plugin-container[72789:11373025] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 04:59:13.774 plugin-container[72789:11373040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 04:59:13.774 plugin-container[72789:11373040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1682398827271	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileM53ZoH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682398827754	Marionette	INFO	Marionette enabled
+1682398827869	Marionette	INFO	Listening on port 54442
+2023-04-25 14:00:27.940 plugin-container[73002:11375711] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 14:00:27.949 plugin-container[73002:11375711] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 14:00:27.965 plugin-container[73002:11375711] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 14:00:27.965 plugin-container[73002:11375711] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 14:00:27.967 plugin-container[73002:11375721] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 14:00:27.967 plugin-container[73002:11375721] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682398828550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-04-25 05:00:31.680 plugin-container[73016:11376125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:00:31.681 plugin-container[73016:11376125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 05:00:31.703 plugin-container[73016:11376125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:00:31.703 plugin-container[73016:11376125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 05:00:31.712 plugin-container[73016:11376136] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:00:31.712 plugin-container[73016:11376136] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 527: TypeError: this.contentWindow is null
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/polyfills.js, line 1: InvalidStateError: An exception was thrown
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 527: TypeError: this.contentWindow is null
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/atoms.js, line 1: InvalidStateError: An exception was thrown
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/record.js, line 1: TypeError: r.a.runtime is undefined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://accounts.google.com/v3/signin/confirmidentifier?dsh=S-871936231%3A1682398852454750&authuser=0&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3DOGB%26utm_medium%3Dapp&followup=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3DOGB%26utm_medium%3Dapp&ifkv=AQMjQ7TUtqTL7bCEdwlhKNQ076tRoSGy9YbueCZQ26FFb0eUJHojAFY4vFiZzv02Flz-Iq5jfHgWcQ&osid=1&passive=1209600&service=accountsettings&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 4 > injectedScript line 2 > eval line 3915 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 163: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/v3/signin/confirmidentifier?dsh=S-871936231%3A1682398852454750&authuser=0&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3DOGB%26utm_medium%3Dapp&followup=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3DOGB%26utm_medium%3Dapp&ifkv=AQMjQ7TUtqTL7bCEdwlhKNQ076tRoSGy9YbueCZQ26FFb0eUJHojAFY4vFiZzv02Flz-Iq5jfHgWcQ&osid=1&passive=1209600&service=accountsettings&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 4 > injectedScript line 2 > eval line 5567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/confirmidentifier?dsh=S-871936231%3A1682398852454750&authuser=0&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3DOGB%26utm_medium%3Dapp&followup=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3DOGB%26utm_medium%3Dapp&ifkv=AQMjQ7TUtqTL7bCEdwlhKNQ076tRoSGy9YbueCZQ26FFb0eUJHojAFY4vFiZzv02Flz-Iq5jfHgWcQ&osid=1&passive=1209600&service=accountsettings&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 4 > injectedScript line 2 > eval line 5567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myaccount.google.com."
+1682398878954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilepWVxEt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682398879472	Marionette	INFO	Marionette enabled
+1682398879616	Marionette	INFO	Listening on port 54487
+2023-04-25 14:01:19.729 plugin-container[73148:11378027] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 14:01:19.730 plugin-container[73148:11378027] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 14:01:19.738 plugin-container[73148:11378027] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 14:01:19.739 plugin-container[73148:11378027] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 14:01:19.739 plugin-container[73148:11378025] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 14:01:19.739 plugin-container[73148:11378025] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682398880394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-04-25 05:01:23.669 plugin-container[73162:11378380] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:01:23.669 plugin-container[73162:11378380] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 05:01:23.674 plugin-container[73162:11378380] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:01:23.674 plugin-container[73162:11378380] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 05:01:23.675 plugin-container[73162:11378392] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:01:23.675 plugin-container[73162:11378392] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 527: TypeError: this.contentWindow is null
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/polyfills.js, line 1: InvalidStateError: An exception was thrown
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 527: TypeError: this.contentWindow is null
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/atoms.js, line 1: InvalidStateError: An exception was thrown
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/record.js, line 1: TypeError: r.a.runtime is undefined
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript warning: https://accounts.google.com/v3/signin/confirmidentifier?dsh=S-1090028065%3A1682398958070957&continue=https%3A%2F%2Fwww.google.com%2F%3Fhl%3Dja&ec=GAZAmgQ&hl=ja&ifkv=AQMjQ7TCIslSHZ8q96E4KRHwEYjShcLB0Xmu0fT1V68p8OCZkyXllOXzD3mMZBqgQBbS0relY-qL&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 365 > injectedScript line 2 > eval line 1771 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileEyicnA/thumbnails) because it does not exist
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
