@@ -150,7 +150,7 @@ for i in user_list.nameList:
         #print(startTimeElement)
     except:
         print('本日は休暇です。')
-        break
+        continue
 
     if status == '':
         print(i + 'さんはまだ本日の勤怠開始を打刻していません')
