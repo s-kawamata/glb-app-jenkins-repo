@@ -19,12 +19,12 @@ pipeline {
     }
   } 
   
-  post {
-        success {
-            slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "Success: 勤怠申請完了JOB \n ${result}"
-        }
-        failure {
-            slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "Failed: 勤怠申請完了JOB \n ${result}"
-        }
-  }
+  // post {
+  //       success {
+  //           slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'good', message: "Success: 勤怠申請完了JOB \n ${result}"
+  //       }
+  //       failure {
+  //           slackSend  channel: "#glb-app-mgr-notification", teamDomain: "all-apc", tokenCredentialId: "slack_webhook_token_mgr", color: 'danger', message: "Failed: 勤怠申請完了JOB \n ${result}"
+  //       }
+  // }
 }

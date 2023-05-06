@@ -32838,3 +32838,1475 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1682399785859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilea1h1NJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682399786281	Marionette	INFO	Marionette enabled
+1682399786369	Marionette	INFO	Listening on port 54669
+2023-04-25 14:16:26.466 plugin-container[75797:11403505] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 14:16:26.467 plugin-container[75797:11403505] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 14:16:26.476 plugin-container[75797:11403505] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 14:16:26.477 plugin-container[75797:11403505] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 14:16:26.477 plugin-container[75797:11403517] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 14:16:26.477 plugin-container[75797:11403517] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682399787017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2023-04-25 05:16:29.513 plugin-container[75809:11403754] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:16:29.513 plugin-container[75809:11403754] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 05:16:29.518 plugin-container[75809:11403754] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:16:29.519 plugin-container[75809:11403754] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 05:16:29.519 plugin-container[75809:11403770] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:16:29.519 plugin-container[75809:11403770] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5761 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-04-25 05:16:31.691 plugin-container[75821:11403951] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:16:31.691 plugin-container[75821:11403951] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 05:16:31.698 plugin-container[75821:11403951] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:16:31.698 plugin-container[75821:11403951] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 05:16:31.698 plugin-container[75821:11403953] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 05:16:31.698 plugin-container[75821:11403953] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1682399803213	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1682399819969	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1682399825029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682399837449	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682399846954	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682399856573	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682399866415	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682399875904	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682399886016	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682399895155	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682399905115	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682399906557	Marionette	INFO	Stopped listening on port 54669
+1682404779356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile7QJKnE"
+1682404792328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682404803384	Marionette	INFO	Marionette enabled
+1682404803586	Marionette	INFO	Listening on port 56432
+2023-04-25 15:40:03.681 plugin-container[87305:11494396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:40:03.682 plugin-container[87305:11494396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:40:03.768 plugin-container[87305:11494396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:40:03.768 plugin-container[87305:11494396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:40:03.768 plugin-container[87305:11494419] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:40:03.768 plugin-container[87305:11494419] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1682404846216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682404847648	Marionette	INFO	Marionette enabled
+1682404847779	Marionette	INFO	Listening on port 56505
+2023-04-25 15:40:47.852 plugin-container[87423:11496040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:40:47.853 plugin-container[87423:11496040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:40:47.858 plugin-container[87423:11496040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:40:47.858 plugin-container[87423:11496040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:40:47.859 plugin-container[87423:11496047] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:40:47.859 plugin-container[87423:11496047] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682404848033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript warning: https://www.google.com/js/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3619 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-04-25 06:40:53.169 plugin-container[87445:11496529] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:40:53.170 plugin-container[87445:11496529] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 06:40:53.178 plugin-container[87445:11496529] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:40:53.178 plugin-container[87445:11496529] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 06:40:53.178 plugin-container[87445:11496541] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:40:53.178 plugin-container[87445:11496541] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+2023-04-25 15:41:04.280 firefox-bin[87418:11495780] -[MOXRootGroup moxWindow]: unrecognized selector sent to instance 0x13fe20900
+2023-04-25 15:41:04.280 firefox-bin[87418:11495780] Mozilla has caught an Obj-C exception [NSInvalidArgumentException: -[MOXRootGroup moxWindow]: unrecognized selector sent to instance 0x13fe20900]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 361: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 361: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 361: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 361: SyntaxError: Document.evaluate: The expression is not a legal expression
+1682405085099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682405086792	Marionette	INFO	Marionette enabled
+1682405087034	Marionette	INFO	Listening on port 56568
+2023-04-25 15:44:47.272 plugin-container[87980:11501611] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:44:47.288 plugin-container[87980:11501611] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:44:47.375 plugin-container[87980:11501611] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:44:47.376 plugin-container[87980:11501611] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:44:47.376 plugin-container[87980:11501624] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:44:47.376 plugin-container[87980:11501624] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682405087557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript warning: https://www.google.com/js/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5951 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-04-25 06:44:52.609 plugin-container[88003:11502234] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:44:52.609 plugin-container[88003:11502234] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 06:44:52.615 plugin-container[88003:11502234] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:44:52.615 plugin-container[88003:11502234] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 06:44:52.615 plugin-container[88003:11502240] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:44:52.615 plugin-container[88003:11502240] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682405124045	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682405125492	Marionette	INFO	Marionette enabled
+1682405125622	Marionette	INFO	Listening on port 56621
+2023-04-25 15:45:25.690 plugin-container[88108:11503521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:45:25.691 plugin-container[88108:11503521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:45:25.697 plugin-container[88108:11503521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:45:25.697 plugin-container[88108:11503521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:45:25.698 plugin-container[88108:11503519] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:45:25.698 plugin-container[88108:11503519] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682405126430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript warning: https://www.google.com/js/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-04-25 06:45:30.430 plugin-container[88129:11504044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:45:30.430 plugin-container[88129:11504044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 06:45:30.436 plugin-container[88129:11504044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:45:30.436 plugin-container[88129:11504044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 06:45:30.437 plugin-container[88129:11504059] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:45:30.437 plugin-container[88129:11504059] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682405153471	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682405154859	Marionette	INFO	Marionette enabled
+1682405154997	Marionette	INFO	Listening on port 56670
+2023-04-25 15:45:55.117 plugin-container[88210:11505055] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:45:55.118 plugin-container[88210:11505055] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:45:55.124 plugin-container[88210:11505055] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:45:55.124 plugin-container[88210:11505055] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:45:55.125 plugin-container[88210:11505053] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:45:55.125 plugin-container[88210:11505053] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682405155366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript warning: https://www.google.com/js/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5190 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-04-25 06:46:00.379 plugin-container[88235:11505621] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:46:00.379 plugin-container[88235:11505621] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 06:46:00.389 plugin-container[88235:11505621] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:46:00.389 plugin-container[88235:11505621] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 06:46:00.390 plugin-container[88235:11505625] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 06:46:00.390 plugin-container[88235:11505625] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=AQMjQ7QKySyN43ckQazFlza770v345vIbcUs4m8kub1xkT59TdIZTQk5PxEoGf26SsfWAPGqKi4v line 2 > eval line 675 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682405289653	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682405291175	Marionette	INFO	Marionette enabled
+1682405291326	Marionette	INFO	Listening on port 56724
+2023-04-25 15:48:11.420 plugin-container[88545:11509432] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:48:11.421 plugin-container[88545:11509432] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:48:11.428 plugin-container[88545:11509432] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:48:11.428 plugin-container[88545:11509432] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-25 15:48:11.428 plugin-container[88545:11509434] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-25 15:48:11.428 plugin-container[88545:11509434] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682405292926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileV3ZgBK/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilezpzbOo/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiler7hOta/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileBcq8Io/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileggAhPD/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilek4ByA6/thumbnails) because it does not exist
+1682481264469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile0I71qP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682481265770	Marionette	INFO	Marionette enabled
+1682481266158	Marionette	INFO	Listening on port 49563
+2023-04-26 12:54:26.355 plugin-container[44256:12602557] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 12:54:26.356 plugin-container[44256:12602557] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 12:54:26.380 plugin-container[44256:12602557] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 12:54:26.380 plugin-container[44256:12602557] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 12:54:26.381 plugin-container[44256:12602568] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 12:54:26.381 plugin-container[44256:12602568] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682481267569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1682481389463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682481389838	Marionette	INFO	Marionette enabled
+1682481390280	Marionette	INFO	Listening on port 49681
+2023-04-26 12:56:30.355 plugin-container[44692:12607648] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 12:56:30.356 plugin-container[44692:12607648] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 12:56:30.369 plugin-container[44692:12607648] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 12:56:30.369 plugin-container[44692:12607648] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 12:56:30.369 plugin-container[44692:12607651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 12:56:30.370 plugin-container[44692:12607651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682481390549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 535: TypeError: this.contentWindow is null
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/polyfills.js, line 1: InvalidStateError: An exception was thrown
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 535: TypeError: this.contentWindow is null
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/atoms.js, line 1: InvalidStateError: An exception was thrown
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/record.js, line 1: TypeError: r.a.runtime is undefined
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 1728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-04-26 03:56:34.733 plugin-container[44710:12608013] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 03:56:34.734 plugin-container[44710:12608013] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 03:56:34.742 plugin-container[44710:12608013] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 03:56:34.742 plugin-container[44710:12608013] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 03:56:34.742 plugin-container[44710:12608033] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 03:56:34.742 plugin-container[44710:12608033] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1682481405937	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+1682481425953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682481426886	Marionette	INFO	Marionette enabled
+1682481427498	Marionette	INFO	Listening on port 49761
+2023-04-26 12:57:07.510 plugin-container[44806:12609029] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 12:57:07.511 plugin-container[44806:12609029] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 12:57:07.517 plugin-container[44806:12609029] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 12:57:07.517 plugin-container[44806:12609029] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 12:57:07.517 plugin-container[44806:12609031] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 12:57:07.517 plugin-container[44806:12609031] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1682481427818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-04-26 03:57:12.413 plugin-container[44827:12609424] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 03:57:12.413 plugin-container[44827:12609424] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 03:57:12.420 plugin-container[44827:12609424] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 03:57:12.420 plugin-container[44827:12609424] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-04-26 03:57:12.421 plugin-container[44827:12609433] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-04-26 03:57:12.421 plugin-container[44827:12609433] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1682481442626	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1682481445830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+1682481459296	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1682481468822	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 1728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 589: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 589: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 1728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 1728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 589: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 1728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 1728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/bookmarkbackups/bookmarks-2023-04-28_17_v4-BukOu-f+Ll82BagsFpA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/bookmarkbackups/bookmarks-2023-04-28_17_v4-BukOu-f+Ll82BagsFpA==.jsonlz4) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript warning: https://www.google.com/js/bg/MezC-G1ZF-1GZ9yqq0o7IScgI3uEZvBcP5CgXoWKMDE.js line 2 > eval line 1728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9ypwNu/thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileQS9riN/thumbnails) because it does not exist
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null

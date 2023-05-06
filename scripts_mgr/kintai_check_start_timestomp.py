@@ -24,7 +24,8 @@ from selenium.webdriver.firefox.options import Options
 
 #今日の日付を取得し、要素検索用に加工​
 today = date.today()
-startTimeElement = "ttvTimeSt" + str(today)
+#startTimeElement = "ttvTimeSt" + str(today)
+startTimeElement = "ttvTimeSt2023-04-21"
 
 # 祝日リストを取得
 url = "https://holidays-jp.github.io/api/v1/date.json"
@@ -149,7 +150,7 @@ for i in user_list.nameList:
         status = driver.find_element_by_id(startTimeElement).get_attribute("textContent")
         #print(startTimeElement)
     except:
-        print('本日は休暇です。')
+        print(i + 'さんは本日は休暇です。')
         continue
 
     if status == '':
