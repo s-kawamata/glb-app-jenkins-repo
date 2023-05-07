@@ -34310,3 +34310,1328 @@ console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
 console.error: "Problem getting stored prefs for TopSites"
 JavaScript error: , line 0: uncaught exception: null
+1683417788785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilenW9Wem"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683417790822	Marionette	INFO	Marionette enabled
+1683417791192	Marionette	INFO	Listening on port 50752
+1683417791789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 5533 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683417806966	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilenW9Wem/thumbnails) because it does not exist
+1683417823682	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683417828409	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683417839457	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683417856966	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683417874880	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683417892289	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683417910006	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683417927910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683417945337	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683417962740	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683417968651	Marionette	INFO	Stopped listening on port 50752
+1683418151594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileq7Nvl1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683418152947	Marionette	INFO	Marionette enabled
+1683418153296	Marionette	INFO	Listening on port 50949
+1683418154135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 2586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683418167958	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683418182706	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileq7Nvl1/thumbnails) because it does not exist
+1683418193034	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683418210356	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683419065552	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile3aGSgU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683419066378	Marionette	INFO	Marionette enabled
+1683419066552	Marionette	INFO	Listening on port 51116
+1683419067430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile3aGSgU/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683419130845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileRBnkGr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683419131689	Marionette	INFO	Marionette enabled
+1683419131876	Marionette	INFO	Listening on port 51188
+1683419132463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileRBnkGr/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1459848873%3A1683419135552143&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneGn7WIJCvo_Q-JtfyMRg0pJDokcIaA047d_yaZvFGWCwr7ho6h3R1qiEv7tVbhf5oxDfwieCw&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 208 > injectedScript line 2 > eval line 6052 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683419370836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileJZKVBt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683419371688	Marionette	INFO	Marionette enabled
+1683419371882	Marionette	INFO	Listening on port 51263
+1683419372463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileJZKVBt/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1946367900%3A1683419375721526&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneEtO7EauUE8xdY6t8FBl4zgylghQdYrV5yaewy1CeYJE8zsmDe6UgdUAzThIM4rmdBZm4o4NQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 208 > injectedScript line 2 > eval line 1923 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683419402820	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileArzT3u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683419403789	Marionette	INFO	Marionette enabled
+1683419403962	Marionette	INFO	Listening on port 51329
+1683419404912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileArzT3u/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S319489468%3A1683419408191193&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneHCub2br98yFog4VH6PvYNXS7HiOgJTpIC_ntKxGoYgwy-VnNPqnBKH5g4yEkNj40FFzldg&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 208 > injectedScript line 2 > eval line 727 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S319489468%3A1683419408191193&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneHCub2br98yFog4VH6PvYNXS7HiOgJTpIC_ntKxGoYgwy-VnNPqnBKH5g4yEkNj40FFzldg&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 208 > injectedScript line 2 > eval line 1560 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683419416116	Marionette	INFO	Stopped listening on port 51329
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+console.error: (new Error("IndexedDB: main/cfr getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/message-groups getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("IndexedDB: main/whats-new-panel getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+1683419441976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilez3sIf3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683419442847	Marionette	INFO	Marionette enabled
+1683419443020	Marionette	INFO	Listening on port 51391
+1683419444289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilez3sIf3/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-888655302%3A1683419446848863&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneFecZSC68Y0txxgaP96hlT6-c4Iw12V-ceHlihEAegpfHisarP8IsiNUMBdNI1BRdN4j1P1lA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 208 > injectedScript line 2 > eval line 3670 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-888655302%3A1683419446848863&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneFecZSC68Y0txxgaP96hlT6-c4Iw12V-ceHlihEAegpfHisarP8IsiNUMBdNI1BRdN4j1P1lA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 208 > injectedScript line 2 > eval line 4479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683419454999	Marionette	INFO	Stopped listening on port 51391
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/whats-new-panel getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683419470666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileVxUUos"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683419471428	Marionette	INFO	Marionette enabled
+1683419471595	Marionette	INFO	Listening on port 51454
+1683419472459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileVxUUos/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-502857780%3A1683419475443567&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneESYu8htMLyV2KDhVoMAfS9O4qLYpmgZM23rrCDBAsg2NMWg-tkg2_NYe0Gry6t8wMlvR7_tg&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 4 > injectedScript line 2 > eval line 4064 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-502857780%3A1683419475443567&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=Af_xneESYu8htMLyV2KDhVoMAfS9O4qLYpmgZM23rrCDBAsg2NMWg-tkg2_NYe0Gry6t8wMlvR7_tg&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 4 > injectedScript line 2 > eval line 6188 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683419486237	Marionette	INFO	Stopped listening on port 51454
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683419768162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilerrMKO2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683419768718	Marionette	INFO	Marionette enabled
+1683419769118	Marionette	INFO	Listening on port 51544
+1683419769651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 2972 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 4959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1683419932768	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile1al4hL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683419933287	Marionette	INFO	Marionette enabled
+1683419933650	Marionette	INFO	Listening on port 51589
+1683419934213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHYjHItHQOLeZQ8vN0n6WLQYKi5Et4QQHQfOCWjDI5mc7p5J8MLaRL262uAPkqO88EuntxI line 2 > eval line 2503 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHYjHItHQOLeZQ8vN0n6WLQYKi5Et4QQHQfOCWjDI5mc7p5J8MLaRL262uAPkqO88EuntxI line 2 > eval line 870 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/vendor/global.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: Failed to open input source 'moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/escape.js'
+1683420308748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileCo1c6O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420309313	Marionette	INFO	Marionette enabled
+1683420309809	Marionette	INFO	Listening on port 51636
+1683420311039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1683420353872	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilehAaz5h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420354430	Marionette	INFO	Marionette enabled
+1683420354799	Marionette	INFO	Listening on port 51678
+1683420355593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneEGURqLM2qWx688l0yVj4Due-AlMRW2ri6V1YaM_BZI1FYA08ynoX0phGLrEEpZB8SnkG4Dyw line 2 > eval line 1562 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneEGURqLM2qWx688l0yVj4Due-AlMRW2ri6V1YaM_BZI1FYA08ynoX0phGLrEEpZB8SnkG4Dyw line 2 > eval line 2762 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683420406980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile4eawbb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420407520	Marionette	INFO	Marionette enabled
+1683420407908	Marionette	INFO	Listening on port 51714
+1683420409047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHi3EhYCQucd4WYBu8l1HE_4zNDiIJC7OAL3DWJvj5_wZCwhR4WA6YL8ocoUOVShhFbcCuTxg line 2 > eval line 2020 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHi3EhYCQucd4WYBu8l1HE_4zNDiIJC7OAL3DWJvj5_wZCwhR4WA6YL8ocoUOVShhFbcCuTxg line 2 > eval line 806 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683420447346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile5BUSmx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420447861	Marionette	INFO	Marionette enabled
+1683420448242	Marionette	INFO	Listening on port 51752
+1683420448781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneE2VLIn9ryItr0-jaS8KYhUqi-a-Xqa2L-SpxRtiLWk8UGZIypSdXnYkfUGTdJUDU6hq5KOBA line 2 > eval line 7697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneE2VLIn9ryItr0-jaS8KYhUqi-a-Xqa2L-SpxRtiLWk8UGZIypSdXnYkfUGTdJUDU6hq5KOBA line 2 > eval line 7415 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 164: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 5129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683420506772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilexSp9a0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420507244	Marionette	INFO	Marionette enabled
+1683420507602	Marionette	INFO	Listening on port 51790
+1683420508208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHN_C6nrK7zyPPSPb5eXf-oR3owDywz7hwwW7SPpkdrXRLdeMNUXYgZ3PDsMkNm0aIut2tTwg line 2 > eval line 226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHN_C6nrK7zyPPSPb5eXf-oR3owDywz7hwwW7SPpkdrXRLdeMNUXYgZ3PDsMkNm0aIut2tTwg line 2 > eval line 5387 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683420551641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileDlee55"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420552212	Marionette	INFO	Marionette enabled
+1683420552593	Marionette	INFO	Listening on port 51827
+1683420553146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHbTrTHQiJFLe1R03HrWA3nD4kEiTUnyPk6qLS85P8C8lIUZfWVjBzBKqYet0fnvaXVntxC line 2 > eval line 4613 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHbTrTHQiJFLe1R03HrWA3nD4kEiTUnyPk6qLS85P8C8lIUZfWVjBzBKqYet0fnvaXVntxC line 2 > eval line 5101 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 164: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 6617 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: WebExtensions: 
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIPropertyBag.getProperty]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/chrome/browser/builtin-addons/search-detection/api.js :: stopListener :: line 189"  data: no]
+  Stack:
+    stopListener@jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/chrome/browser/builtin-addons/search-detection/api.js:189:32
+
+JavaScript warning: https://www.amazon.co.jp/s?k=google&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&linkCode=qs&sourceid=Mozilla-search&tag=mozillajapan-fx-22 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1683420603173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileFhtuTG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420603698	Marionette	INFO	Marionette enabled
+1683420604092	Marionette	INFO	Listening on port 51896
+1683420604977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGNJN2s_srkNXczlEuKg2w70jKZD_XI0QQvrl3ej1y-3CeykMvcRyzdf_Umv22-YwRnyMBkvg line 2 > eval line 5526 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGNJN2s_srkNXczlEuKg2w70jKZD_XI0QQvrl3ej1y-3CeykMvcRyzdf_Umv22-YwRnyMBkvg line 2 > eval line 7664 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 164: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 2604 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683420640495	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile6s0z80"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420641028	Marionette	INFO	Marionette enabled
+1683420641402	Marionette	INFO	Listening on port 51935
+1683420641939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneEVhs_GypuwzCrlNhPgb5BRU2YKGOJLBeXxvYcJUtb53AvKJtMPOhmof6kJzisUBYMcjiCoiQ line 2 > eval line 92 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneEVhs_GypuwzCrlNhPgb5BRU2YKGOJLBeXxvYcJUtb53AvKJtMPOhmof6kJzisUBYMcjiCoiQ line 2 > eval line 3649 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 164: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 6697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683420689858	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileexquIr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420690417	Marionette	INFO	Marionette enabled
+1683420690784	Marionette	INFO	Listening on port 51973
+1683420691898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGsTcGK3-qzbqdfS4vry_752hNZhEnXyZwq4e3kCsJvQB-bhlG7RfYD8urAcXYAg7wUYHWl line 2 > eval line 2965 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGsTcGK3-qzbqdfS4vry_752hNZhEnXyZwq4e3kCsJvQB-bhlG7RfYD8urAcXYAg7wUYHWl line 2 > eval line 218 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 164: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 7638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683420733066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9Ch2Ca"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420733918	Marionette	INFO	Marionette enabled
+1683420734145	Marionette	INFO	Listening on port 52014
+1683420734949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile9Ch2Ca/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683420764068	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileImad57"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420764684	Marionette	INFO	Marionette enabled
+1683420765131	Marionette	INFO	Listening on port 52082
+1683420765815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHym4JHifyX8RfZkzy6fSxjQDccCv7ppWoVPq6TEOzU2yciQFJH6NA2ug2blNnCS68jDrALlw line 2 > eval line 1182 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683420799012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileA8Lxvp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420799522	Marionette	INFO	Marionette enabled
+1683420799885	Marionette	INFO	Listening on port 52128
+1683420800425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneHym4JHifyX8RfZkzy6fSxjQDccCv7ppWoVPq6TEOzU2yciQFJH6NA2ug2blNnCS68jDrALlw line 2 > eval line 5225 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGmbNgybrXyp5svmXUDL9hGp8QOuwBZKN_yizVfiB6iZScfnOaGR2Gek-loDbHTiqYqqgXOSA line 2 > eval line 4091 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGmbNgybrXyp5svmXUDL9hGp8QOuwBZKN_yizVfiB6iZScfnOaGR2Gek-loDbHTiqYqqgXOSA line 2 > eval line 4676 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 164: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 7111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683420854606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileS9m6Kg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683420855196	Marionette	INFO	Marionette enabled
+1683420855591	Marionette	INFO	Listening on port 52165
+1683420856818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGCFoccQsu2PzRYQn8v-ydNEhWpgXIfbUKdmbIiof3X-9bscKSevJ29JuXYLriO0CYfUVVEMw line 2 > eval line 1991 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGCFoccQsu2PzRYQn8v-ydNEhWpgXIfbUKdmbIiof3X-9bscKSevJ29JuXYLriO0CYfUVVEMw line 2 > eval line 1979 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 164: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 1491 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683421003695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile02w8m5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683421004195	Marionette	INFO	Marionette enabled
+1683421004555	Marionette	INFO	Listening on port 52208
+1683421005760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGTLqhkpDju03r0O_2SB8tBVHVuj1G91o1TvYbPyCRkEuBr9cYcfCgKwbSAio5sJwdQ1bRpOQ line 2 > eval line 4953 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneGTLqhkpDju03r0O_2SB8tBVHVuj1G91o1TvYbPyCRkEuBr9cYcfCgKwbSAio5sJwdQ1bRpOQ line 2 > eval line 2839 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 164: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 65 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683421266684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilexwhoth"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683421267301	Marionette	INFO	Marionette enabled
+1683421267715	Marionette	INFO	Listening on port 52270
+1683421268283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneH8ayHI8tk8iCLQrxZIMrHwRQ8SluHz45uSV-aX_K3KJHsqLpu_BdQDqvqY7nVPA6XXY2HxLg line 2 > eval line 4972 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneH8ayHI8tk8iCLQrxZIMrHwRQ8SluHz45uSV-aX_K3KJHsqLpu_BdQDqvqY7nVPA6XXY2HxLg line 2 > eval line 5034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683421323849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile5YHczx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683421324403	Marionette	INFO	Marionette enabled
+1683421324800	Marionette	INFO	Listening on port 52311
+1683421325388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneF11jqrTnGrFAd5dlP7oo_J275Kacw996EU0_U5mHTuw7VqW1bwJcJipkF7_XJmwuVKlZ515A line 2 > eval line 4532 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/?hl%3Dja&ec=GAZAmgQ&hl=ja&passive=true&ifkv=Af_xneF11jqrTnGrFAd5dlP7oo_J275Kacw996EU0_U5mHTuw7VqW1bwJcJipkF7_XJmwuVKlZ515A line 2 > eval line 6083 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 118: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 164: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 118}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 1535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683421692432	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileRH9oMS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683421693491	Marionette	INFO	Marionette enabled
+1683421693814	Marionette	INFO	Listening on port 52405
+1683421694366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileRH9oMS/thumbnails) because it does not exist
+1683421762658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilepqhKh0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683421763714	Marionette	INFO	Marionette enabled
+1683421764037	Marionette	INFO	Listening on port 52461
+1683421764586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilepqhKh0/thumbnails) because it does not exist
+1683421827130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilecK55ky"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683421828185	Marionette	INFO	Marionette enabled
+1683421828505	Marionette	INFO	Listening on port 52520
+1683421829060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilecK55ky/thumbnails) because it does not exist
+1683421963853	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileI0iD4d"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683421964241	Marionette	INFO	Marionette enabled
+1683421964649	Marionette	INFO	Listening on port 52594
+1683421965405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 658: TypeError: context.contentWindow is null
+1683422115792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileDnkDyZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683422116216	Marionette	INFO	Marionette enabled
+1683422116609	Marionette	INFO	Listening on port 52640
+1683422117224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 7092 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683422131367	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683422147977	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683422153031	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422164052	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422181706	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422199461	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422217347	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422234930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422252481	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422270070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422287678	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422293327	Marionette	INFO	Stopped listening on port 52640
+1683422325869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilehvZgUJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683422326268	Marionette	INFO	Marionette enabled
+1683422326798	Marionette	INFO	Listening on port 52747
+1683422327319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1683422631661	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile0GL76u"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683422632091	Marionette	INFO	Marionette enabled
+1683422632594	Marionette	INFO	Listening on port 52799
+1683422632973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1683422706838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileWDXVfj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683422707220	Marionette	INFO	Marionette enabled
+1683422707675	Marionette	INFO	Listening on port 52836
+1683422708288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1683422746670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileo19XhU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683422747122	Marionette	INFO	Marionette enabled
+1683422747467	Marionette	INFO	Listening on port 52872
+1683422747923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 658: TypeError: context.contentWindow is null
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 4119 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683422762418	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683422779159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683422786957	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422798113	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422815456	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422833343	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422850908	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422868974	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422886278	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422904063	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422921369	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683422927109	Marionette	INFO	Stopped listening on port 52872
+1683423256217	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile4L9ULE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683423256638	Marionette	INFO	Marionette enabled
+1683423257157	Marionette	INFO	Listening on port 53022
+1683423257469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1683423654980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileAc0lgY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683423655448	Marionette	INFO	Marionette enabled
+1683423655902	Marionette	INFO	Listening on port 53067
+1683423656701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1683424088967	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileIV75oZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683424089389	Marionette	INFO	Marionette enabled
+1683424089850	Marionette	INFO	Listening on port 53117
+1683424090640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1683424175560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofiledaDd8N"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683424176015	Marionette	INFO	Marionette enabled
+1683424176373	Marionette	INFO	Listening on port 53155
+1683424176840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683424239149	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofilexjbXyk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683424239555	Marionette	INFO	Marionette enabled
+1683424239969	Marionette	INFO	Listening on port 53189
+1683424240587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 658: TypeError: context.contentWindow is null
+1683424277992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileJqN6bE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683424278418	Marionette	INFO	Marionette enabled
+1683424278783	Marionette	INFO	Listening on port 53226
+1683424279264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 658: TypeError: context.contentWindow is null
+1683424311280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofile3zCiN6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683424311660	Marionette	INFO	Marionette enabled
+1683424312064	Marionette	INFO	Listening on port 53261
+1683424312372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 6490 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683424326930	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683424343638	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683424348106	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424359309	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424376786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424394527	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424412080	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424430275	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424447668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424465181	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424482510	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424488412	Marionette	INFO	Stopped listening on port 53261
+1683424818213	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4c/m2b9phxj5014nztgwqgt6k6mjkh9d6/T/rust_mozprofileeK2bxH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683424818657	Marionette	INFO	Marionette enabled
+1683424819007	Marionette	INFO	Listening on port 53416
+1683424819471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: moz-extension://697a3213-54cf-d84e-8ac7-de635d1ae3cf/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript warning: https://www.google.com/js/bg/layuLwmq3jdBuTYQxid3_BliAeBVpa3hzTsmkPzdK-E.js line 2 > eval line 4149 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1683424836152	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683424852709	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683424856445	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683424868237	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
